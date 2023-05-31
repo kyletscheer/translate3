@@ -1,0 +1,4476 @@
+{
+  "tokodede": {
+    "kla'o": {
+      "tetun_translation": "aat (sasan)",
+      "english_translation": "bad, unwell, broke (for things)"
+    },
+    "soko": {
+      "tetun_translation": "aat (ema)",
+      "english_translation": "bad, unwell, broke (for people)"
+    },
+    "seri": {
+      "tetun_translation": "balun",
+      "english_translation": "half"
+    },
+    "bloi": {
+      "tetun_translation": "di'ak",
+      "english_translation": "good, right, fine"
+    },
+    "manu": {
+      "tetun_translation": "manu",
+      "english_translation": "chicken"
+    },
+    "kuda": {
+      "tetun_translation": "kuda",
+      "english_translation": "horse"
+    },
+    "api mat": {
+      "tetun_translation": "dapur",
+      "english_translation": "kitchen"
+    },
+    "ibohulu": {
+      "tetun_translation": "hasan rahun",
+      "english_translation": "beard"
+    },
+    "limu kabu": {
+      "tetun_translation": "liman-kabun",
+      "english_translation": "bicep"
+    },
+    "isi lolo": {
+      "tetun_translation": "isin lolon",
+      "english_translation": "body (whole)"
+    },
+    "hulu": {
+      "tetun_translation": "fulun",
+      "english_translation": "body hair"
+    },
+    "isi": {
+      "tetun_translation": "isin",
+      "english_translation": "body, flesh"
+    },
+    "gunutar": {
+      "tetun_translation": "kakutak",
+      "english_translation": "brain"
+    },
+    "umat": {
+      "tetun_translation": "hirus matan, peitu",
+      "english_translation": "chest, thorax, bosom"
+    },
+    "mat hulu": {
+      "tetun_translation": "matan fulun",
+      "english_translation": "eyebrow, eyelash"
+    },
+    "oe": {
+      "tetun_translation": "oin",
+      "english_translation": "face"
+    },
+    "limu'u": {
+      "tetun_translation": "liman-fuan",
+      "english_translation": "finger"
+    },
+    "vu": {
+      "tetun_translation": "fuan, (lp) kurasaun",
+      "english_translation": "heart"
+    },
+    "koe'u": {
+      "tetun_translation": "ain fuan",
+      "english_translation": "toe"
+    },
+    "dgana ulu": {
+      "tetun_translation": "fuuk",
+      "english_translation": "hair"
+    },
+    "kubu": {
+      "tetun_translation": "kukun",
+      "english_translation": "nail"
+    },
+    "mogorot": {
+      "tetun_translation": "modok",
+      "english_translation": "green"
+    },
+    "megee": {
+      "tetun_translation": "kinur",
+      "english_translation": "yellow"
+    },
+    "pela, sente": {
+      "tetun_translation": "sente",
+      "english_translation": "feel, feeling"
+    },
+    "mataku": {
+      "tetun_translation": "ta'uk",
+      "english_translation": "afraid, fear"
+    },
+    "mde’es/mesa": {
+      "tetun_translation": "mesak",
+      "english_translation": "alone"
+    },
+    "kusuba/kisit": {
+      "tetun_translation": "hirus",
+      "english_translation": "anger, angry, fury"
+    },
+    "tekeru": {
+      "tetun_translation": "bulak",
+      "english_translation": "crazy, insane"
+    },
+    "kontente": {
+      "tetun_translation": "kontente",
+      "english_translation": "happy"
+    },
+    "lara-m'nara": {
+      "tetun_translation": "hadomi",
+      "english_translation": "love"
+    },
+    "triste": {
+      "tetun_translation": "triste",
+      "english_translation": "sad"
+    },
+    "makae": {
+      "tetun_translation": "moe",
+      "english_translation": "shy"
+    },
+    "gru’a": {
+      "tetun_translation": "moras",
+      "english_translation": "sick, disease"
+    },
+    "kakora": {
+      "tetun_translation": "hakfodak",
+      "english_translation": "startled, shocked"
+    },
+    "kulukut": {
+      "tetun_translation": "namkurut",
+      "english_translation": "wrinkled, crinkled, crumpled"
+    },
+    "makae a’e": {
+      "tetun_translation": "mo'e dor",
+      "english_translation": "very shy"
+    },
+    "noo": {
+      "tetun_translation": "nuu",
+      "english_translation": "coconut"
+    },
+    "sele": {
+      "tetun_translation": "batar",
+      "english_translation": "corn"
+    },
+    "enu": {
+      "tetun_translation": "hemu",
+      "english_translation": "drink"
+    },
+    "telo": {
+      "tetun_translation": "tolun",
+      "english_translation": "egg"
+    },
+    "mantelo": {
+      "tetun_translation": "manu tolun",
+      "english_translation": "egg (chicken)"
+    },
+    "vú (tm)": {
+      "tetun_translation": "fuan, ai-fuan",
+      "english_translation": "fruit"
+    },
+    "vurisí (tm)": {
+      "tetun_translation": "forai",
+      "english_translation": "peanut"
+    },
+    "sia": {
+      "tetun_translation": "masin",
+      "english_translation": "salt"
+    },
+    "uta rua": {
+      "tetun_translation": "modo tahan",
+      "english_translation": "vegetables"
+    },
+    "teke": {
+      "tetun_translation": "toke",
+      "english_translation": "gecko"
+    },
+    "sisi": {
+      "tetun_translation": "na’an",
+      "english_translation": "meat"
+    },
+    "sevar": {
+      "tetun_translation": "fehuk",
+      "english_translation": "potato"
+    },
+    "tigisa": {
+      "tetun_translation": "siin",
+      "english_translation": "sour, acid"
+    },
+    "sabaité": {
+      "tetun_translation": "abu-abu; kalohan",
+      "english_translation": "cloud, cloudy"
+    },
+    "tukudu": {
+      "tetun_translation": "malirin",
+      "english_translation": "cold"
+    },
+    "ula baiseri": {
+      "tetun_translation": "fulan sorin",
+      "english_translation": "crescent moon"
+    },
+    "ula muda": {
+      "tetun_translation": "fulan nakukun",
+      "english_translation": "dark moon"
+    },
+    "muda": {
+      "tetun_translation": "nakukun",
+      "english_translation": "darkness"
+    },
+    "api": {
+      "tetun_translation": "ahi",
+      "english_translation": "fire"
+    },
+    "api-lio": {
+      "tetun_translation": "ahi-lakan",
+      "english_translation": "flame"
+    },
+    "ula ketemo": {
+      "tetun_translation": "fulan tomak",
+      "english_translation": "full moon"
+    },
+    "vitu": {
+      "tetun_translation": "fitun",
+      "english_translation": "star"
+    },
+    "ula aer": {
+      "tetun_translation": "fulan naroman",
+      "english_translation": "moonlight"
+    },
+    "tana": {
+      "tetun_translation": "kuda",
+      "english_translation": "plant (activity)"
+    },
+    "ura": {
+      "tetun_translation": "udan",
+      "english_translation": "rain"
+    },
+    "baná": {
+      "tetun_translation": "manas",
+      "english_translation": "warm, hot"
+    },
+    "nee tunugu": {
+      "tetun_translation": "fo folin",
+      "english_translation": "give price"
+    },
+    "pelseta": {
+      "tetun_translation": "nu'usá",
+      "english_translation": "how, what"
+    },
+    "leula": {
+      "tetun_translation": "husik ba",
+      "english_translation": "let it be"
+    },
+    "ke": {
+      "tetun_translation": "mak",
+      "english_translation": "so, that (focus marker)"
+    },
+    "dabait": {
+      "tetun_translation": "tarutu",
+      "english_translation": "bang, pop"
+    },
+    "tunugu ha’e": {
+      "tetun_translation": "folin boot, folin karun",
+      "english_translation": "big price, expensive"
+    },
+    "klobu": {
+      "tetun_translation": "ko’a",
+      "english_translation": "cut"
+    },
+    "mate": {
+      "tetun_translation": "mate",
+      "english_translation": "dead"
+    },
+    "lor": {
+      "tetun_translation": "malu",
+      "english_translation": "each other"
+    },
+    "lapar": {
+      "tetun_translation": "sasan",
+      "english_translation": "goods, products"
+    },
+    "verkede’e": {
+      "tetun_translation": "iha ne’e",
+      "english_translation": "here"
+    },
+    "sola": {
+      "tetun_translation": "subar (buat)",
+      "english_translation": "hide (thing)"
+    },
+    "ligu": {
+      "tetun_translation": "lisuk",
+      "english_translation": "jointly, as a group"
+    },
+    "ba'a": {
+      "tetun_translation": "halimar",
+      "english_translation": "joke, jest, wisecrack"
+    },
+    "te": {
+      "tetun_translation": "la",
+      "english_translation": "not, no"
+    },
+    "tunugu": {
+      "tetun_translation": "folin",
+      "english_translation": "price"
+    },
+    "peri": {
+      "tetun_translation": "dada",
+      "english_translation": "pull"
+    },
+    "pio/piotama": {
+      "tetun_translation": "hatama",
+      "english_translation": "put in, insert, submit, deposit"
+    },
+    "glelu": {
+      "tetun_translation": "fila",
+      "english_translation": "return"
+    },
+    "sapi": {
+      "tetun_translation": "baluk",
+      "english_translation": "slice"
+    },
+    "vel-vele": {
+      "tetun_translation": "neneik",
+      "english_translation": "slow, slowly"
+    },
+    "mali": {
+      "tetun_translation": "hamnasa",
+      "english_translation": "smile"
+    },
+    "kupu": {
+      "tetun_translation": "suar",
+      "english_translation": "smoke"
+    },
+    "lapaiso": {
+      "tetun_translation": "buat ida, buat ruma",
+      "english_translation": "something"
+    },
+    "bree": {
+      "tetun_translation": "lian",
+      "english_translation": "sound, noise"
+    },
+    "verkono’o": {
+      "tetun_translation": "iha ne’eba",
+      "english_translation": "there"
+    },
+    "magani/nurat/olara": {
+      "tetun_translation": "hanoin",
+      "english_translation": "think, remember, miss"
+    },
+    "kede’e": {
+      "tetun_translation": "ne’e",
+      "english_translation": "this, that"
+    },
+    "lapa": {
+      "tetun_translation": "sasan, buat ruma, buat",
+      "english_translation": "tool, equipment, things"
+    },
+    "vore": {
+      "tetun_translation": "tais",
+      "english_translation": "traditional clothes for man and women"
+    },
+    "m'nara": {
+      "tetun_translation": "hakarak",
+      "english_translation": "want"
+    },
+    "kuipil": {
+      "tetun_translation": "dala hira",
+      "english_translation": "how often, how many times"
+    },
+    "pil": {
+      "tetun_translation": "hira",
+      "english_translation": "how much, how many"
+    },
+    "sebeta": {
+      "tetun_translation": "konvida",
+      "english_translation": "invite, invitation"
+    },
+    "brobas kla’o": {
+      "tetun_translation": "bosok ten",
+      "english_translation": "liar"
+    },
+    "manaru": {
+      "tetun_translation": "naruk",
+      "english_translation": "long"
+    },
+    "osa": {
+      "tetun_translation": "osan",
+      "english_translation": "money, fund"
+    },
+    "pesi": {
+      "tetun_translation": "liu tan",
+      "english_translation": "more than"
+    },
+    "nour": {
+      "tetun_translation": "barak",
+      "english_translation": "much, many"
+    },
+    "lo’e": {
+      "tetun_translation": "loke",
+      "english_translation": "open"
+    },
+    "loba": {
+      "tetun_translation": "loos",
+      "english_translation": "right"
+    },
+    "lose": {
+      "tetun_translation": "ho",
+      "english_translation": "with"
+    },
+    "meges": {
+      "tetun_translation": "hanesan",
+      "english_translation": "equal; same"
+    },
+    "tia": {
+      "tetun_translation": "tuda",
+      "english_translation": "throw, throw away"
+    },
+    "mane": {
+      "tetun_translation": "mane",
+      "english_translation": "boy/man"
+    },
+    "ana": {
+      "tetun_translation": "oan",
+      "english_translation": "child"
+    },
+    "ana vine": {
+      "tetun_translation": "oan feto",
+      "english_translation": "daughter"
+    },
+    "kaka": {
+      "tetun_translation": "maun",
+      "english_translation": "older brother"
+    },
+    "tiu": {
+      "tetun_translation": "tiu",
+      "english_translation": "uncle"
+    },
+    "viné": {
+      "tetun_translation": "feto",
+      "english_translation": "woman, women, lady"
+    },
+    "muguru": {
+      "tetun_translation": "nurak",
+      "english_translation": "young"
+    },
+    "sao": {
+      "tetun_translation": "belun, kolega",
+      "english_translation": "friend, mate"
+    },
+    "ala roo": {
+      "tetun_translation": "hola malu",
+      "english_translation": "married"
+    },
+    "kaben": {
+      "tetun_translation": "kaben",
+      "english_translation": "married"
+    },
+    "ana mane": {
+      "tetun_translation": "oan mane",
+      "english_translation": "son"
+    },
+    "ali": {
+      "tetun_translation": "alin",
+      "english_translation": "young brother, younger sister"
+    },
+    "favor": {
+      "tetun_translation": "favor",
+      "english_translation": "please"
+    },
+    "bai": {
+      "tetun_translation": "sorin",
+      "english_translation": "side"
+    },
+    "ena wati": {
+      "tetun_translation": "toba fatin",
+      "english_translation": "bedroom, bed"
+    },
+    "ver lara": {
+      "tetun_translation": "iha laran",
+      "english_translation": "inside"
+    },
+    "malae": {
+      "tetun_translation": "malae",
+      "english_translation": "foreign"
+    },
+    "gini": {
+      "tetun_translation": "besik",
+      "english_translation": "near, close to"
+    },
+    "ver keva": {
+      "tetun_translation": "iha liur",
+      "english_translation": "outside"
+    },
+    "keva": {
+      "tetun_translation": "liur",
+      "english_translation": "outside, external; outside surface"
+    },
+    "da": {
+      "tetun_translation": "dalan",
+      "english_translation": "road, street"
+    },
+    "kono’o": {
+      "tetun_translation": "ne’eba",
+      "english_translation": "there"
+    },
+    "kailau": {
+      "tetun_translation": "aas",
+      "english_translation": "tall"
+    },
+    "seni’it": {
+      "tetun_translation": "uitoan",
+      "english_translation": "few, a little"
+    },
+    "A ka’u": {
+      "tetun_translation": "hau ni’an",
+      "english_translation": "my, mine"
+    },
+    "ka’mi": {
+      "tetun_translation": "ami nian",
+      "english_translation": "our, ours"
+    },
+    "ro;o si’i": {
+      "tetun_translation": "sira nian",
+      "english_translation": "their, theirs"
+    },
+    "ro’o": {
+      "tetun_translation": "sira",
+      "english_translation": "their, theirs, them"
+    },
+    "kami": {
+      "tetun_translation": "ami",
+      "english_translation": "we, us"
+    },
+    "seni": {
+      "tetun_translation": "se",
+      "english_translation": "who, whom"
+    },
+    "seni ta’u": {
+      "tetun_translation": "se mak ne’e",
+      "english_translation": "who’s that"
+    },
+    "sentani’i": {
+      "tetun_translation": "se nian",
+      "english_translation": "whose"
+    },
+    "kimi": {
+      "tetun_translation": "imi nian",
+      "english_translation": "your, yours"
+    },
+    "sudilimu": {
+      "tetun_translation": "bensa",
+      "english_translation": "bless, blessing"
+    },
+    "kadopa": {
+      "tetun_translation": "kadopa",
+      "english_translation": "climb tree by hugging it"
+    },
+    "etó": {
+      "tetun_translation": "hetan",
+      "english_translation": "find, see"
+    },
+    "sudi": {
+      "tetun_translation": "hasoru",
+      "english_translation": "meet"
+    },
+    "ala": {
+      "tetun_translation": "sosa",
+      "english_translation": "buy"
+    },
+    "ala lapar": {
+      "tetun_translation": "hola sasan",
+      "english_translation": "buy something"
+    },
+    "via": {
+      "tetun_translation": "bolu",
+      "english_translation": "call"
+    },
+    "lebo": {
+      "tetun_translation": "bele",
+      "english_translation": "can, could"
+    },
+    "telebo": {
+      "tetun_translation": "labele",
+      "english_translation": "cannot"
+    },
+    "sa'e": {
+      "tetun_translation": "sa'e",
+      "english_translation": "climb"
+    },
+    "tapa": {
+      "tetun_translation": "taka",
+      "english_translation": "close"
+    },
+    "ta": {
+      "tetun_translation": "tesi",
+      "english_translation": "cut"
+    },
+    "bra'i": {
+      "tetun_translation": "lakohi",
+      "english_translation": "don't want, wish not, want not"
+    },
+    "doi": {
+      "tetun_translation": "monu",
+      "english_translation": "fall"
+    },
+    "na'il": {
+      "tetun_translation": "hakail",
+      "english_translation": "fishing"
+    },
+    "tebe": {
+      "tetun_translation": "semo",
+      "english_translation": "fly (through the air)"
+    },
+    "betu": {
+      "tetun_translation": "tebe (okos)",
+      "english_translation": "folklore"
+    },
+    "tei": {
+      "tetun_translation": "tebe (leten)",
+      "english_translation": "kick"
+    },
+    "leti": {
+      "tetun_translation": "buka",
+      "english_translation": "look for"
+    },
+    "dotu": {
+      "tetun_translation": "tau leten ahi",
+      "english_translation": "put on fire"
+    },
+    "tenek-tenega": {
+      "tetun_translation": "nonook",
+      "english_translation": "quiet, silent, shut up"
+    },
+    "lise": {
+      "tetun_translation": "haree",
+      "english_translation": "see, view"
+    },
+    "fa'an": {
+      "tetun_translation": "fa’an",
+      "english_translation": "sell"
+    },
+    "sor": {
+      "tetun_translation": "suku",
+      "english_translation": "sewing"
+    },
+    "matani": {
+      "tetun_translation": "hatudu",
+      "english_translation": "show"
+    },
+    "tidi": {
+      "tetun_translation": "tuku",
+      "english_translation": "strike, blow"
+    },
+    "bonu": {
+      "tetun_translation": "baku",
+      "english_translation": "strike, blow, hit"
+    },
+    "soru": {
+      "tetun_translation": "ko'alia",
+      "english_translation": "talk, speak, converse"
+    },
+    "bati": {
+      "tetun_translation": "fahe",
+      "english_translation": "divide, share"
+    },
+    "dara": {
+      "tetun_translation": "tuir",
+      "english_translation": "follow"
+    },
+    "bligu": {
+      "tetun_translation": "haluha",
+      "english_translation": "forget"
+    },
+    "putu": {
+      "tetun_translation": "hamutuk",
+      "english_translation": "together, joint, gather together, united"
+    },
+    "buni": {
+      "tetun_translation": "subar (ema)",
+      "english_translation": "hide (person)"
+    },
+    "brobas": {
+      "tetun_translation": "bosok",
+      "english_translation": "lie, falsehood"
+    },
+    "punu": {
+      "tetun_translation": "halo",
+      "english_translation": "make"
+    },
+    "dale": {
+      "tetun_translation": "dehan",
+      "english_translation": "tell"
+    },
+    "pana’a": {
+      "tetun_translation": "hatene",
+      "english_translation": "know, understand, aware of"
+    },
+    "pana’a dasa": {
+      "tetun_translation": "komprende",
+      "english_translation": "understand"
+    },
+    "blee": {
+      "tetun_translation": "hadeer",
+      "english_translation": "wake up"
+    },
+    "aer ketemo": {
+      "tetun_translation": "loron tomak",
+      "english_translation": "all day"
+    },
+    "punu tó": {
+      "tetun_translation": "halo tinan",
+      "english_translation": "anniversary"
+    },
+    "matar": {
+      "tetun_translation": "hatan",
+      "english_translation": "answer"
+    },
+    "limu": {
+      "tetun_translation": "liman",
+      "english_translation": "arm, hand"
+    },
+    "tugu": {
+      "tetun_translation": "husu",
+      "english_translation": "ask, request"
+    },
+    "muku": {
+      "tetun_translation": "hudi",
+      "english_translation": "banana"
+    },
+    "diu wati": {
+      "tetun_translation": "hariis fatin",
+      "english_translation": "bath place"
+    },
+    "diu": {
+      "tetun_translation": "hariis",
+      "english_translation": "bath/to shower"
+    },
+    "muno": {
+      "tetun_translation": "uluk",
+      "english_translation": "before, first"
+    },
+    "rua": {
+      "tetun_translation": "kraik ",
+      "english_translation": "below"
+    },
+    "ha'e/poku": {
+      "tetun_translation": "boot",
+      "english_translation": "big"
+    },
+    "pro": {
+      "tetun_translation": "ro",
+      "english_translation": "boat"
+    },
+    "livru": {
+      "tetun_translation": "livru",
+      "english_translation": "book"
+    },
+    "odi": {
+      "tetun_translation": "lori/hodi",
+      "english_translation": "bring"
+    },
+    "ambou": {
+      "tetun_translation": "maun",
+      "english_translation": "brother, older brother"
+    },
+    "kai same ": {
+      "tetun_translation": "ai-farina",
+      "english_translation": "cassava"
+    },
+    "kadeira": {
+      "tetun_translation": "kadeira",
+      "english_translation": "chair"
+    },
+    "pida pida/tunugudu": {
+      "tetun_translation": "baratu",
+      "english_translation": "cheap"
+    },
+    "kafe": {
+      "tetun_translation": "kafe",
+      "english_translation": "coffee"
+    },
+    "mai ha’a laap ": {
+      "tetun_translation": "mai han ona",
+      "english_translation": "come eat "
+    },
+    "karbau": {
+      "tetun_translation": "karau",
+      "english_translation": "cow"
+    },
+    "kavo ": {
+      "tetun_translation": "pepinu ",
+      "english_translation": "cucumber"
+    },
+    "aer": {
+      "tetun_translation": "aban",
+      "english_translation": "tomorrow"
+    },
+    "raeaer": {
+      "tetun_translation": "rai loron",
+      "english_translation": "daytime"
+    },
+    "gia": {
+      "tetun_translation": "fo'er ",
+      "english_translation": "dirty"
+    },
+    "damat": {
+      "tetun_translation": "odamatan",
+      "english_translation": "door"
+    },
+    "nevati": {
+      "tetun_translation": "mehi",
+      "english_translation": "dream"
+    },
+    "tligi": {
+      "tetun_translation": "tilun",
+      "english_translation": "ear"
+    },
+    "wowtelu": {
+      "tetun_translation": "ualu",
+      "english_translation": "eight"
+    },
+    "sakuiwowtelu": {
+      "tetun_translation": "ualunulu",
+      "english_translation": "eighty"
+    },
+    "sagulu gresi iso": {
+      "tetun_translation": "sanulu resin ida",
+      "english_translation": "eleven"
+    },
+    "ma’o": {
+      "tetun_translation": "mamuk",
+      "english_translation": "empty, vacant, blank unoccupied"
+    },
+    "ae-aer": {
+      "tetun_translation": "loro-loron",
+      "english_translation": "everyday"
+    },
+    "mat": {
+      "tetun_translation": "matan",
+      "english_translation": "eyes"
+    },
+    "bebere’e/biu": {
+      "tetun_translation": "lais, lalais",
+      "english_translation": "fast, quickly"
+    },
+    "sakuilim": {
+      "tetun_translation": "limanulu",
+      "english_translation": "fifty"
+    },
+    "tidi lor": {
+      "tetun_translation": "tuku malu",
+      "english_translation": "fight"
+    },
+    "mori": {
+      "tetun_translation": "moris",
+      "english_translation": "give birth, birth, born"
+    },
+    "ma'o": {
+      "tetun_translation": "remata",
+      "english_translation": "finish"
+    },
+    "ika ": {
+      "tetun_translation": "ikan ",
+      "english_translation": "fish"
+    },
+    "lim": {
+      "tetun_translation": "lima",
+      "english_translation": "five"
+    },
+    "vetu/wetu": {
+      "tetun_translation": "ai-funan",
+      "english_translation": "flower"
+    },
+    "koe": {
+      "tetun_translation": "ain",
+      "english_translation": "foot, leg"
+    },
+    "garfu": {
+      "tetun_translation": "garfu",
+      "english_translation": "fork"
+    },
+    "sakuipat": {
+      "tetun_translation": "haatnulu",
+      "english_translation": "forty"
+    },
+    "pat": {
+      "tetun_translation": "haat",
+      "english_translation": "four"
+    },
+    "kupat": {
+      "tetun_translation": "dala haat",
+      "english_translation": "fourth"
+    },
+    "pio": {
+      "tetun_translation": "hosi, husi (fatin)",
+      "english_translation": "from (place)"
+    },
+    "pesa": {
+      "tetun_translation": "hosi, husi (pasadu)",
+      "english_translation": "from (time)"
+    },
+    "pio mane?": {
+      "tetun_translation": "hosi ne'ebe?",
+      "english_translation": "from where?"
+    },
+    "aer-airu, aeraru": {
+      "tetun_translation": "futuru",
+      "english_translation": "future"
+    },
+    "lasona buti, lisona buti": {
+      "tetun_translation": "liis mutin",
+      "english_translation": "garlic"
+    },
+    "lasona,lisona": {
+      "tetun_translation": "liis ",
+      "english_translation": "garlic/onion"
+    },
+    "mnamar": {
+      "tetun_translation": "laran-luak",
+      "english_translation": "generous"
+    },
+    "nee/tolo": {
+      "tetun_translation": "fo",
+      "english_translation": "give, provide, deliver"
+    },
+    "kopu": {
+      "tetun_translation": "kopu",
+      "english_translation": "glass"
+    },
+    "duu": {
+      "tetun_translation": "tun",
+      "english_translation": "go down"
+    },
+    "bloi ka tai?": {
+      "tetun_translation": "di'ak ka lae?",
+      "english_translation": "good or no?"
+    },
+    "dudu": {
+      "tetun_translation": "dudu",
+      "english_translation": "push"
+    },
+    "U": {
+      "tetun_translation": "nia",
+      "english_translation": "he/she"
+    },
+    "dgana": {
+      "tetun_translation": "ulun",
+      "english_translation": "head"
+    },
+    "umo": {
+      "tetun_translation": "uma",
+      "english_translation": "house, home"
+    },
+    "atus": {
+      "tetun_translation": "atus",
+      "english_translation": "hundred"
+    },
+    "salae": {
+      "tetun_translation": "hamlaha",
+      "english_translation": "hungry"
+    },
+    "A": {
+      "tetun_translation": "ha’u",
+      "english_translation": "I"
+    },
+    "A la eskola se": {
+      "tetun_translation": "ha’u ba eskola ona ",
+      "english_translation": "I am going to school now"
+    },
+    "A la diu wati": {
+      "tetun_translation": "ha’u ba hariis fatin ",
+      "english_translation": "I am going to the bathroom"
+    },
+    "A bro": {
+      "tetun_translation": "ha’u hamrok",
+      "english_translation": "I am thirsty"
+    },
+    "A ha'a ha'a": {
+      "tetun_translation": "ha'u han etu",
+      "english_translation": "I eat rice"
+    },
+    "lara": {
+      "tetun_translation": "laran",
+      "english_translation": "inside"
+    },
+    "dapur": {
+      "tetun_translation": "dapur",
+      "english_translation": "kitchen"
+    },
+    "gnaeu": {
+      "tetun_translation": "tudik",
+      "english_translation": "knife"
+    },
+    "rae": {
+      "tetun_translation": "rai",
+      "english_translation": "land, earth"
+    },
+    "kairua ": {
+      "tetun_translation": "ai-moruk",
+      "english_translation": "medicine"
+    },
+    "maubara dia dila": {
+      "tetun_translation": "maubara iha ai-dila ",
+      "english_translation": "maubara has papaya"
+    },
+    "lelo-kalau": {
+      "tetun_translation": "meudia",
+      "english_translation": "midday"
+    },
+    "suse": {
+      "tetun_translation": "susubeen",
+      "english_translation": "milk"
+    },
+    "vula/wula": {
+      "tetun_translation": "fulan",
+      "english_translation": "month; moon"
+    },
+    "busó": {
+      "tetun_translation": "dadeer",
+      "english_translation": "morning"
+    },
+    "vovolau": {
+      "tetun_translation": "foho",
+      "english_translation": "mountain"
+    },
+    "ibo": {
+      "tetun_translation": "ibun",
+      "english_translation": "mouth"
+    },
+    "akau gala": {
+      "tetun_translation": "hau-nia naran",
+      "english_translation": "my name is"
+    },
+    "gala": {
+      "tetun_translation": "naran",
+      "english_translation": "name"
+    },
+    "tegeu": {
+      "tetun_translation": "kakorok",
+      "english_translation": "neck"
+    },
+    "weu/veu": {
+      "tetun_translation": "foun",
+      "english_translation": "new"
+    },
+    "to heú": {
+      "tetun_translation": "tinan foun",
+      "english_translation": "new year"
+    },
+    "buta": {
+      "tetun_translation": "kalan",
+      "english_translation": "night"
+    },
+    "wowpat": {
+      "tetun_translation": "sia",
+      "english_translation": "nine"
+    },
+    "sakuiwowpat": {
+      "tetun_translation": "sianulu",
+      "english_translation": "ninety"
+    },
+    "ilu": {
+      "tetun_translation": "inus",
+      "english_translation": "nose"
+    },
+    "weki/veki": {
+      "tetun_translation": "seidauk",
+      "english_translation": "not yet"
+    },
+    "se": {
+      "tetun_translation": "ona",
+      "english_translation": "now, already"
+    },
+    "dapu": {
+      "tetun_translation": "bebeik",
+      "english_translation": "often"
+    },
+    "to ha’e": {
+      "tetun_translation": "tinan boot",
+      "english_translation": "older"
+    },
+    "kaso’e": {
+      "tetun_translation": "dala ida",
+      "english_translation": "once"
+    },
+    "kaso'e pita": {
+      "tetun_translation": "dala ida tan",
+      "english_translation": "once again"
+    },
+    "iso": {
+      "tetun_translation": "ida",
+      "english_translation": "one"
+    },
+    "aer iso": {
+      "tetun_translation": "loron ida",
+      "english_translation": "one day"
+    },
+    "atus iso": {
+      "tetun_translation": "atus ida",
+      "english_translation": "one hundred"
+    },
+    "ribu iso": {
+      "tetun_translation": "rihun ida",
+      "english_translation": "one thousand"
+    },
+    "dila ": {
+      "tetun_translation": "ai-dila",
+      "english_translation": "papaya"
+    },
+    "atu": {
+      "tetun_translation": "ema",
+      "english_translation": "people, humans"
+    },
+    "kurus": {
+      "tetun_translation": "ai-manas",
+      "english_translation": "pepper, chili"
+    },
+    "wavi/vavi": {
+      "tetun_translation": "fahi ",
+      "english_translation": "pig"
+    },
+    "wati": {
+      "tetun_translation": "fatin",
+      "english_translation": "place, address"
+    },
+    "knia": {
+      "tetun_translation": "bikan",
+      "english_translation": "plate"
+    },
+    "kura": {
+      "tetun_translation": "sanan ",
+      "english_translation": "pot, cauldron, cooking pot"
+    },
+    "lui": {
+      "tetun_translation": "tau",
+      "english_translation": "put"
+    },
+    "simu": {
+      "tetun_translation": "simu",
+      "english_translation": "receive, accept"
+    },
+    "mio": {
+      "tetun_translation": "mean",
+      "english_translation": "red"
+    },
+    "lasona mio, lisona mio": {
+      "tetun_translation": "liis mean, liis bombay",
+      "english_translation": "red onion"
+    },
+    "ha'a": {
+      "tetun_translation": "etu",
+      "english_translation": "rice"
+    },
+    "lua": {
+      "tetun_translation": "mota",
+      "english_translation": "river"
+    },
+    "plai": {
+      "tetun_translation": "halai",
+      "english_translation": "run"
+    },
+    "eskola": {
+      "tetun_translation": "eskola",
+      "english_translation": "school"
+    },
+    "tasi": {
+      "tetun_translation": "tasi",
+      "english_translation": "sea, ocean"
+    },
+    "wowru": {
+      "tetun_translation": "hitu",
+      "english_translation": "seven"
+    },
+    "sakuiwowru": {
+      "tetun_translation": "hitunulu",
+      "english_translation": "seventy"
+    },
+    "wowniso": {
+      "tetun_translation": "neen",
+      "english_translation": "six"
+    },
+    "sakuiwowniso": {
+      "tetun_translation": "neenulu",
+      "english_translation": "sixty"
+    },
+    "bruma": {
+      "tetun_translation": "ki'ik",
+      "english_translation": "small, little"
+    },
+    "gunuru": {
+      "tetun_translation": "kanuru",
+      "english_translation": "spoon"
+    },
+    "brii": {
+      "tetun_translation": "hamriik",
+      "english_translation": "stand up"
+    },
+    "digira ua": {
+      "tetun_translation": "karak-teen",
+      "english_translation": "stingy"
+    },
+    "watu/vatu": {
+      "tetun_translation": "fatuk",
+      "english_translation": "stone, rock"
+    },
+    "sia meda ": {
+      "tetun_translation": "masin midar",
+      "english_translation": "sugar"
+    },
+    "lelo ha’e": {
+      "tetun_translation": "bai loron",
+      "english_translation": "summer, dry season"
+    },
+    "lelo": {
+      "tetun_translation": "loron (sun)",
+      "english_translation": "sun"
+    },
+    "dumingu": {
+      "tetun_translation": "domingu",
+      "english_translation": "sunday"
+    },
+    "lelo sa'e": {
+      "tetun_translation": "loron sa’e",
+      "english_translation": "sunrise, east"
+    },
+    "raediri": {
+      "tetun_translation": "lokraik",
+      "english_translation": "sunset"
+    },
+    "lelo duu/lelo sobu": {
+      "tetun_translation": "loron tun",
+      "english_translation": "sunset, west"
+    },
+    "nagi": {
+      "tetun_translation": "nani",
+      "english_translation": "swim"
+    },
+    "meza": {
+      "tetun_translation": "mesa",
+      "english_translation": "table"
+    },
+    "kamale": {
+      "tetun_translation": "sukaer",
+      "english_translation": "tamarind"
+    },
+    "xa": {
+      "tetun_translation": "xa",
+      "english_translation": "tea"
+    },
+    "nipa": {
+      "tetun_translation": "nehan",
+      "english_translation": "teeth"
+    },
+    "sagulu": {
+      "tetun_translation": "sanulu",
+      "english_translation": "ten"
+    },
+    "bro": {
+      "tetun_translation": "hamrook",
+      "english_translation": "thirsty"
+    },
+    "sagulu gresi telu": {
+      "tetun_translation": "sanulu resin tolu",
+      "english_translation": "thirteen"
+    },
+    "sakuitelu": {
+      "tetun_translation": "tolunulu",
+      "english_translation": "thirty"
+    },
+    "telu": {
+      "tetun_translation": "tolu",
+      "english_translation": "three"
+    },
+    "aer-telu": {
+      "tetun_translation": "loron tolu",
+      "english_translation": "three days"
+    },
+    "aitelun": {
+      "tetun_translation": "horik baintolu",
+      "english_translation": "three days ago"
+    },
+    "aitelu": {
+      "tetun_translation": "baintolu",
+      "english_translation": "three days later"
+    },
+    "kole": {
+      "tetun_translation": "kolen",
+      "english_translation": "tired"
+    },
+    "sio ": {
+      "tetun_translation": "tanis",
+      "english_translation": "to cry"
+    },
+    "ha’a": {
+      "tetun_translation": "han",
+      "english_translation": "to eat"
+    },
+    "sega": {
+      "tetun_translation": "sona",
+      "english_translation": "to fry"
+    },
+    "la": {
+      "tetun_translation": "ba",
+      "english_translation": "to go, go, goes"
+    },
+    "dia": {
+      "tetun_translation": "iha",
+      "english_translation": "to have"
+    },
+    "para’u": {
+      "tetun_translation": "haro'us",
+      "english_translation": "to rinse off"
+    },
+    "mderi": {
+      "tetun_translation": "tuur",
+      "english_translation": "to sit"
+    },
+    "ena": {
+      "tetun_translation": "toba",
+      "english_translation": "to sleep"
+    },
+    "peni": {
+      "tetun_translation": "hela, hein",
+      "english_translation": "to stay, wait, stay"
+    },
+    "sole": {
+      "tetun_translation": "la’o",
+      "english_translation": "to walk"
+    },
+    "pna’i": {
+      "tetun_translation": "ohin, agora (lp)",
+      "english_translation": "today, now"
+    },
+    "lama": {
+      "tetun_translation": "nanal",
+      "english_translation": "tongue"
+    },
+    "tete ": {
+      "tetun_translation": "leten",
+      "english_translation": "top, up top, on top, above, over"
+    },
+    "kaipu": {
+      "tetun_translation": "ai-huun",
+      "english_translation": "tree"
+    },
+    "sagulu gresi ru": {
+      "tetun_translation": "sanulu resin rua",
+      "english_translation": "twelve"
+    },
+    "sakuiru": {
+      "tetun_translation": "ruanulu",
+      "english_translation": "twenty"
+    },
+    "rú": {
+      "tetun_translation": "rua",
+      "english_translation": "two"
+    },
+    "aer-ru": {
+      "tetun_translation": "loron rua, bainrua",
+      "english_translation": "two days"
+    },
+    "aer-rum": {
+      "tetun_translation": "horik bainrua",
+      "english_translation": "two days ago"
+    },
+    "atus ru": {
+      "tetun_translation": "atus rua",
+      "english_translation": "two hundred"
+    },
+    "ribu ru atus telu sakuipat gresi lim": {
+      "tetun_translation": "rihun rua atus tolu haatnulu resin lima",
+      "english_translation": "two thousand three hundred forty five"
+    },
+    "ba": {
+      "tetun_translation": "okos",
+      "english_translation": "under, below"
+    },
+    "uta": {
+      "tetun_translation": "modo",
+      "english_translation": "vegetables"
+    },
+    "kawasa": {
+      "tetun_translation": "fase",
+      "english_translation": "wash"
+    },
+    "kawasa knia ": {
+      "tetun_translation": "fase bikan ",
+      "english_translation": "wash dishes"
+    },
+    "E": {
+      "tetun_translation": "bee",
+      "english_translation": "water"
+    },
+    "seta": {
+      "tetun_translation": "saida",
+      "english_translation": "what"
+    },
+    "kiti gala seta?": {
+      "tetun_translation": "ita naran sa?",
+      "english_translation": "what is your name?"
+    },
+    "pesamane": {
+      "tetun_translation": "horibainhira",
+      "english_translation": "when"
+    },
+    "aer-pil": {
+      "tetun_translation": "bainhira",
+      "english_translation": "when (how many days)"
+    },
+    "vermane": {
+      "tetun_translation": "ne'ebe (labele haree deit)",
+      "english_translation": "where (bele haree)"
+    },
+    "la mane?": {
+      "tetun_translation": "ba ne’ebe?",
+      "english_translation": "Where are you going?"
+    },
+    "buti": {
+      "tetun_translation": "mutin",
+      "english_translation": "white"
+    },
+    "ketemo": {
+      "tetun_translation": "tomak",
+      "english_translation": "whole"
+    },
+    "gelu": {
+      "tetun_translation": "anin",
+      "english_translation": "wind"
+    },
+    "janela": {
+      "tetun_translation": "janela",
+      "english_translation": "window"
+    },
+    "kai": {
+      "tetun_translation": "ai ",
+      "english_translation": "wood, tree"
+    },
+    "to": {
+      "tetun_translation": "tinan",
+      "english_translation": "year"
+    },
+    "ko": {
+      "tetun_translation": "o",
+      "english_translation": "you"
+    },
+    "kimi/ro": {
+      "tetun_translation": "imi, sira",
+      "english_translation": "you all, they"
+    },
+    "kiti ": {
+      "tetun_translation": "ita",
+      "english_translation": "you, we, us"
+    },
+    "to bruma": {
+      "tetun_translation": "tinan ki’ik",
+      "english_translation": "youngest"
+    },
+    "ma'o moe": {
+      "tetun_translation": "nol",
+      "english_translation": "zero"
+    },
+    "vore (tm)": {
+      "tetun_translation": "hatais",
+      "english_translation": "wear, put something on"
+    },
+    "kero": {
+      "tetun_translation": "hakerek",
+      "english_translation": "write"
+    },
+    "pli’i": {
+      "tetun_translation": "rona",
+      "english_translation": "listen"
+    },
+    "divitur": {
+      "tetun_translation": "haksoit (ema)",
+      "english_translation": "jump, leap"
+    }
+  },
+  "tetun": {
+    "aat (sasan)": {
+      "tokodede_translation": "kla'o",
+      "english_translation": "bad, unwell, broke (for things)"
+    },
+    "aat (ema)": {
+      "tokodede_translation": "soko",
+      "english_translation": "bad, unwell, broke (for people)"
+    },
+    "balun": {
+      "tokodede_translation": "seri",
+      "english_translation": "half"
+    },
+    "di'ak": {
+      "tokodede_translation": "bloi",
+      "english_translation": "good, right, fine"
+    },
+    "manu": {
+      "tokodede_translation": "manu",
+      "english_translation": "chicken"
+    },
+    "kuda": {
+      "tokodede_translation": "tana",
+      "english_translation": "plant (activity)"
+    },
+    "dapur": {
+      "tokodede_translation": "dapur",
+      "english_translation": "kitchen"
+    },
+    "hasan rahun": {
+      "tokodede_translation": "ibohulu",
+      "english_translation": "beard"
+    },
+    "liman-kabun": {
+      "tokodede_translation": "limu kabu",
+      "english_translation": "bicep"
+    },
+    "isin lolon": {
+      "tokodede_translation": "isi lolo",
+      "english_translation": "body (whole)"
+    },
+    "fulun": {
+      "tokodede_translation": "hulu",
+      "english_translation": "body hair"
+    },
+    "isin": {
+      "tokodede_translation": "isi",
+      "english_translation": "body, flesh"
+    },
+    "kakutak": {
+      "tokodede_translation": "gunutar",
+      "english_translation": "brain"
+    },
+    "hirus matan, peitu": {
+      "tokodede_translation": "umat",
+      "english_translation": "chest, thorax, bosom"
+    },
+    "matan fulun": {
+      "tokodede_translation": "mat hulu",
+      "english_translation": "eyebrow, eyelash"
+    },
+    "oin": {
+      "tokodede_translation": "oe",
+      "english_translation": "face"
+    },
+    "liman-fuan": {
+      "tokodede_translation": "limu'u",
+      "english_translation": "finger"
+    },
+    "fuan, (lp) kurasaun": {
+      "tokodede_translation": "vu",
+      "english_translation": "heart"
+    },
+    "ain fuan": {
+      "tokodede_translation": "koe'u",
+      "english_translation": "toe"
+    },
+    "fuuk": {
+      "tokodede_translation": "dgana ulu",
+      "english_translation": "hair"
+    },
+    "kukun": {
+      "tokodede_translation": "kubu",
+      "english_translation": "nail"
+    },
+    "modok": {
+      "tokodede_translation": "mogorot",
+      "english_translation": "green"
+    },
+    "kinur": {
+      "tokodede_translation": "megee",
+      "english_translation": "yellow"
+    },
+    "sente": {
+      "tokodede_translation": "pela, sente",
+      "english_translation": "feel, feeling"
+    },
+    "ta'uk": {
+      "tokodede_translation": "mataku",
+      "english_translation": "afraid, fear"
+    },
+    "mesak": {
+      "tokodede_translation": "mde’es/mesa",
+      "english_translation": "alone"
+    },
+    "hirus": {
+      "tokodede_translation": "kusuba/kisit",
+      "english_translation": "anger, angry, fury"
+    },
+    "bulak": {
+      "tokodede_translation": "tekeru",
+      "english_translation": "crazy, insane"
+    },
+    "kontente": {
+      "tokodede_translation": "kontente",
+      "english_translation": "happy"
+    },
+    "hadomi": {
+      "tokodede_translation": "lara-m'nara",
+      "english_translation": "love"
+    },
+    "triste": {
+      "tokodede_translation": "triste",
+      "english_translation": "sad"
+    },
+    "moe": {
+      "tokodede_translation": "makae",
+      "english_translation": "shy"
+    },
+    "moras": {
+      "tokodede_translation": "gru’a",
+      "english_translation": "sick, disease"
+    },
+    "hakfodak": {
+      "tokodede_translation": "kakora",
+      "english_translation": "startled, shocked"
+    },
+    "namkurut": {
+      "tokodede_translation": "kulukut",
+      "english_translation": "wrinkled, crinkled, crumpled"
+    },
+    "mo'e dor": {
+      "tokodede_translation": "makae a’e",
+      "english_translation": "very shy"
+    },
+    "nuu": {
+      "tokodede_translation": "noo",
+      "english_translation": "coconut"
+    },
+    "batar": {
+      "tokodede_translation": "sele",
+      "english_translation": "corn"
+    },
+    "hemu": {
+      "tokodede_translation": "enu",
+      "english_translation": "drink"
+    },
+    "tolun": {
+      "tokodede_translation": "telo",
+      "english_translation": "egg"
+    },
+    "manu tolun": {
+      "tokodede_translation": "mantelo",
+      "english_translation": "egg (chicken)"
+    },
+    "fuan, ai-fuan": {
+      "tokodede_translation": "vú (tm)",
+      "english_translation": "fruit"
+    },
+    "forai": {
+      "tokodede_translation": "vurisí (tm)",
+      "english_translation": "peanut"
+    },
+    "masin": {
+      "tokodede_translation": "sia",
+      "english_translation": "salt"
+    },
+    "modo tahan": {
+      "tokodede_translation": "uta rua",
+      "english_translation": "vegetables"
+    },
+    "toke": {
+      "tokodede_translation": "teke",
+      "english_translation": "gecko"
+    },
+    "na’an": {
+      "tokodede_translation": "sisi",
+      "english_translation": "meat"
+    },
+    "fehuk": {
+      "tokodede_translation": "sevar",
+      "english_translation": "potato"
+    },
+    "siin": {
+      "tokodede_translation": "tigisa",
+      "english_translation": "sour, acid"
+    },
+    "abu-abu; kalohan": {
+      "tokodede_translation": "sabaité",
+      "english_translation": "cloud, cloudy"
+    },
+    "malirin": {
+      "tokodede_translation": "tukudu",
+      "english_translation": "cold"
+    },
+    "fulan sorin": {
+      "tokodede_translation": "ula baiseri",
+      "english_translation": "crescent moon"
+    },
+    "fulan nakukun": {
+      "tokodede_translation": "ula muda",
+      "english_translation": "dark moon"
+    },
+    "nakukun": {
+      "tokodede_translation": "muda",
+      "english_translation": "darkness"
+    },
+    "ahi": {
+      "tokodede_translation": "api",
+      "english_translation": "fire"
+    },
+    "ahi-lakan": {
+      "tokodede_translation": "api-lio",
+      "english_translation": "flame"
+    },
+    "fulan tomak": {
+      "tokodede_translation": "ula ketemo",
+      "english_translation": "full moon"
+    },
+    "fitun": {
+      "tokodede_translation": "vitu",
+      "english_translation": "star"
+    },
+    "fulan naroman": {
+      "tokodede_translation": "ula aer",
+      "english_translation": "moonlight"
+    },
+    "udan": {
+      "tokodede_translation": "ura",
+      "english_translation": "rain"
+    },
+    "manas": {
+      "tokodede_translation": "baná",
+      "english_translation": "warm, hot"
+    },
+    "fo folin": {
+      "tokodede_translation": "nee tunugu",
+      "english_translation": "give price"
+    },
+    "nu'usá": {
+      "tokodede_translation": "pelseta",
+      "english_translation": "how, what"
+    },
+    "husik ba": {
+      "tokodede_translation": "leula",
+      "english_translation": "let it be"
+    },
+    "mak": {
+      "tokodede_translation": "ke",
+      "english_translation": "so, that (focus marker)"
+    },
+    "tarutu": {
+      "tokodede_translation": "dabait",
+      "english_translation": "bang, pop"
+    },
+    "folin boot, folin karun": {
+      "tokodede_translation": "tunugu ha’e",
+      "english_translation": "big price, expensive"
+    },
+    "ko’a": {
+      "tokodede_translation": "klobu",
+      "english_translation": "cut"
+    },
+    "mate": {
+      "tokodede_translation": "mate",
+      "english_translation": "dead"
+    },
+    "malu": {
+      "tokodede_translation": "lor",
+      "english_translation": "each other"
+    },
+    "sasan": {
+      "tokodede_translation": "lapar",
+      "english_translation": "goods, products"
+    },
+    "iha ne’e": {
+      "tokodede_translation": "verkede’e",
+      "english_translation": "here"
+    },
+    "subar (buat)": {
+      "tokodede_translation": "sola",
+      "english_translation": "hide (thing)"
+    },
+    "lisuk": {
+      "tokodede_translation": "ligu",
+      "english_translation": "jointly, as a group"
+    },
+    "halimar": {
+      "tokodede_translation": "ba'a",
+      "english_translation": "joke, jest, wisecrack"
+    },
+    "la": {
+      "tokodede_translation": "te",
+      "english_translation": "not, no"
+    },
+    "folin": {
+      "tokodede_translation": "tunugu",
+      "english_translation": "price"
+    },
+    "dada": {
+      "tokodede_translation": "peri",
+      "english_translation": "pull"
+    },
+    "hatama": {
+      "tokodede_translation": "pio/piotama",
+      "english_translation": "put in, insert, submit, deposit"
+    },
+    "fila": {
+      "tokodede_translation": "glelu",
+      "english_translation": "return"
+    },
+    "baluk": {
+      "tokodede_translation": "sapi",
+      "english_translation": "slice"
+    },
+    "neneik": {
+      "tokodede_translation": "vel-vele",
+      "english_translation": "slow, slowly"
+    },
+    "hamnasa": {
+      "tokodede_translation": "mali",
+      "english_translation": "smile"
+    },
+    "suar": {
+      "tokodede_translation": "kupu",
+      "english_translation": "smoke"
+    },
+    "buat ida, buat ruma": {
+      "tokodede_translation": "lapaiso",
+      "english_translation": "something"
+    },
+    "lian": {
+      "tokodede_translation": "bree",
+      "english_translation": "sound, noise"
+    },
+    "iha ne’eba": {
+      "tokodede_translation": "verkono’o",
+      "english_translation": "there"
+    },
+    "hanoin": {
+      "tokodede_translation": "magani/nurat/olara",
+      "english_translation": "think, remember, miss"
+    },
+    "ne’e": {
+      "tokodede_translation": "kede’e",
+      "english_translation": "this, that"
+    },
+    "sasan, buat ruma, buat": {
+      "tokodede_translation": "lapa",
+      "english_translation": "tool, equipment, things"
+    },
+    "tais": {
+      "tokodede_translation": "vore",
+      "english_translation": "traditional clothes for man and women"
+    },
+    "hakarak": {
+      "tokodede_translation": "m'nara",
+      "english_translation": "want"
+    },
+    "dala hira": {
+      "tokodede_translation": "kuipil",
+      "english_translation": "how often, how many times"
+    },
+    "hira": {
+      "tokodede_translation": "pil",
+      "english_translation": "how much, how many"
+    },
+    "konvida": {
+      "tokodede_translation": "sebeta",
+      "english_translation": "invite, invitation"
+    },
+    "bosok ten": {
+      "tokodede_translation": "brobas kla’o",
+      "english_translation": "liar"
+    },
+    "naruk": {
+      "tokodede_translation": "manaru",
+      "english_translation": "long"
+    },
+    "osan": {
+      "tokodede_translation": "osa",
+      "english_translation": "money, fund"
+    },
+    "liu tan": {
+      "tokodede_translation": "pesi",
+      "english_translation": "more than"
+    },
+    "barak": {
+      "tokodede_translation": "nour",
+      "english_translation": "much, many"
+    },
+    "loke": {
+      "tokodede_translation": "lo’e",
+      "english_translation": "open"
+    },
+    "loos": {
+      "tokodede_translation": "loba",
+      "english_translation": "right"
+    },
+    "ho": {
+      "tokodede_translation": "lose",
+      "english_translation": "with"
+    },
+    "hanesan": {
+      "tokodede_translation": "meges",
+      "english_translation": "equal; same"
+    },
+    "tia": {
+      "tokodede_translation": "tia",
+      "english_translation": "aunt"
+    },
+    "mane": {
+      "tokodede_translation": "mane",
+      "english_translation": "boy/man"
+    },
+    "oan": {
+      "tokodede_translation": "ana",
+      "english_translation": "child"
+    },
+    "oan feto": {
+      "tokodede_translation": "ana vine",
+      "english_translation": "daughter"
+    },
+    "maun": {
+      "tokodede_translation": "ambou",
+      "english_translation": "brother, older brother"
+    },
+    "tiu": {
+      "tokodede_translation": "tiu",
+      "english_translation": "uncle"
+    },
+    "feto": {
+      "tokodede_translation": "viné",
+      "english_translation": "woman, women, lady"
+    },
+    "nurak": {
+      "tokodede_translation": "muguru",
+      "english_translation": "young"
+    },
+    "belun, kolega": {
+      "tokodede_translation": "sao",
+      "english_translation": "friend, mate"
+    },
+    "hola malu": {
+      "tokodede_translation": "ala roo",
+      "english_translation": "married"
+    },
+    "kaben": {
+      "tokodede_translation": "kaben",
+      "english_translation": "married"
+    },
+    "oan mane": {
+      "tokodede_translation": "ana mane",
+      "english_translation": "son"
+    },
+    "alin": {
+      "tokodede_translation": "ali",
+      "english_translation": "young brother, younger sister"
+    },
+    "favor": {
+      "tokodede_translation": "favor",
+      "english_translation": "please"
+    },
+    "sorin": {
+      "tokodede_translation": "bai",
+      "english_translation": "side"
+    },
+    "toba fatin": {
+      "tokodede_translation": "ena wati",
+      "english_translation": "bedroom, bed"
+    },
+    "iha laran": {
+      "tokodede_translation": "ver lara",
+      "english_translation": "inside"
+    },
+    "malae": {
+      "tokodede_translation": "malae",
+      "english_translation": "foreign"
+    },
+    "besik": {
+      "tokodede_translation": "gini",
+      "english_translation": "near, close to"
+    },
+    "iha liur": {
+      "tokodede_translation": "ver keva",
+      "english_translation": "outside"
+    },
+    "liur": {
+      "tokodede_translation": "keva",
+      "english_translation": "outside, external; outside surface"
+    },
+    "dalan": {
+      "tokodede_translation": "da",
+      "english_translation": "road, street"
+    },
+    "ne’eba": {
+      "tokodede_translation": "kono’o",
+      "english_translation": "there"
+    },
+    "aas": {
+      "tokodede_translation": "kailau",
+      "english_translation": "tall"
+    },
+    "uitoan": {
+      "tokodede_translation": "seni’it",
+      "english_translation": "few, a little"
+    },
+    "hau ni’an": {
+      "tokodede_translation": "A ka’u",
+      "english_translation": "my, mine"
+    },
+    "ami nian": {
+      "tokodede_translation": "ka’mi",
+      "english_translation": "our, ours"
+    },
+    "sira nian": {
+      "tokodede_translation": "ro;o si’i",
+      "english_translation": "their, theirs"
+    },
+    "sira": {
+      "tokodede_translation": "ro’o",
+      "english_translation": "their, theirs, them"
+    },
+    "ami": {
+      "tokodede_translation": "kami",
+      "english_translation": "we, us"
+    },
+    "se": {
+      "tokodede_translation": "seni",
+      "english_translation": "who, whom"
+    },
+    "se mak ne’e": {
+      "tokodede_translation": "seni ta’u",
+      "english_translation": "who’s that"
+    },
+    "se nian": {
+      "tokodede_translation": "sentani’i",
+      "english_translation": "whose"
+    },
+    "imi nian": {
+      "tokodede_translation": "kimi",
+      "english_translation": "your, yours"
+    },
+    "bensa": {
+      "tokodede_translation": "sudilimu",
+      "english_translation": "bless, blessing"
+    },
+    "kadopa": {
+      "tokodede_translation": "kadopa",
+      "english_translation": "climb tree by hugging it"
+    },
+    "hetan": {
+      "tokodede_translation": "etó",
+      "english_translation": "find, see"
+    },
+    "hasoru": {
+      "tokodede_translation": "sudi",
+      "english_translation": "meet"
+    },
+    "hola": {
+      "tokodede_translation": "ala",
+      "english_translation": "buy"
+    },
+    "sosa": {
+      "tokodede_translation": "ala",
+      "english_translation": "buy"
+    },
+    "hola sasan": {
+      "tokodede_translation": "ala lapar",
+      "english_translation": "buy something"
+    },
+    "bolu": {
+      "tokodede_translation": "via",
+      "english_translation": "call"
+    },
+    "bele": {
+      "tokodede_translation": "lebo",
+      "english_translation": "can, could"
+    },
+    "labele": {
+      "tokodede_translation": "telebo",
+      "english_translation": "cannot"
+    },
+    "sa'e": {
+      "tokodede_translation": "sa'e",
+      "english_translation": "climb"
+    },
+    "taka": {
+      "tokodede_translation": "tapa",
+      "english_translation": "close"
+    },
+    "tesi": {
+      "tokodede_translation": "ta",
+      "english_translation": "cut"
+    },
+    "lakohi": {
+      "tokodede_translation": "bra'i",
+      "english_translation": "don't want, wish not, want not"
+    },
+    "monu": {
+      "tokodede_translation": "doi",
+      "english_translation": "fall"
+    },
+    "hakail": {
+      "tokodede_translation": "na'il",
+      "english_translation": "fishing"
+    },
+    "semo": {
+      "tokodede_translation": "tebe",
+      "english_translation": "fly (through the air)"
+    },
+    "tebe (okos)": {
+      "tokodede_translation": "betu",
+      "english_translation": "folklore"
+    },
+    "tebe (leten)": {
+      "tokodede_translation": "tei",
+      "english_translation": "kick"
+    },
+    "buka": {
+      "tokodede_translation": "leti",
+      "english_translation": "look for"
+    },
+    "tau leten ahi": {
+      "tokodede_translation": "dotu",
+      "english_translation": "put on fire"
+    },
+    "nonook": {
+      "tokodede_translation": "tenek-tenega",
+      "english_translation": "quiet, silent, shut up"
+    },
+    "haree": {
+      "tokodede_translation": "lise",
+      "english_translation": "see, view"
+    },
+    "fa’an": {
+      "tokodede_translation": "fa'an",
+      "english_translation": "sell"
+    },
+    "suku": {
+      "tokodede_translation": "sor",
+      "english_translation": "sewing"
+    },
+    "hatudu": {
+      "tokodede_translation": "matani",
+      "english_translation": "show"
+    },
+    "tuku": {
+      "tokodede_translation": "tidi",
+      "english_translation": "strike, blow"
+    },
+    "baku": {
+      "tokodede_translation": "bonu",
+      "english_translation": "strike, blow, hit"
+    },
+    "ko'alia": {
+      "tokodede_translation": "soru",
+      "english_translation": "talk, speak, converse"
+    },
+    "tuda": {
+      "tokodede_translation": "tia",
+      "english_translation": "throw, throw away"
+    },
+    "fahe": {
+      "tokodede_translation": "bati",
+      "english_translation": "divide, share"
+    },
+    "tuir": {
+      "tokodede_translation": "dara",
+      "english_translation": "follow"
+    },
+    "haluha": {
+      "tokodede_translation": "bligu",
+      "english_translation": "forget"
+    },
+    "hamutuk": {
+      "tokodede_translation": "putu",
+      "english_translation": "together, joint, gather together, united"
+    },
+    "subar (ema)": {
+      "tokodede_translation": "buni",
+      "english_translation": "hide (person)"
+    },
+    "bosok": {
+      "tokodede_translation": "brobas",
+      "english_translation": "lie, falsehood"
+    },
+    "halo": {
+      "tokodede_translation": "punu",
+      "english_translation": "make"
+    },
+    "dehan": {
+      "tokodede_translation": "dale",
+      "english_translation": "tell"
+    },
+    "hatene": {
+      "tokodede_translation": "pana’a",
+      "english_translation": "know, understand, aware of"
+    },
+    "komprende": {
+      "tokodede_translation": "pana’a dasa",
+      "english_translation": "understand"
+    },
+    "hadeer": {
+      "tokodede_translation": "blee",
+      "english_translation": "wake up"
+    },
+    "loron tomak": {
+      "tokodede_translation": "aer ketemo",
+      "english_translation": "all day"
+    },
+    "halo tinan": {
+      "tokodede_translation": "punu tó",
+      "english_translation": "anniversary"
+    },
+    "hatan": {
+      "tokodede_translation": "matar",
+      "english_translation": "answer"
+    },
+    "liman": {
+      "tokodede_translation": "limu",
+      "english_translation": "arm, hand"
+    },
+    "husu": {
+      "tokodede_translation": "tugu",
+      "english_translation": "ask, request"
+    },
+    "hudi": {
+      "tokodede_translation": "muku",
+      "english_translation": "banana"
+    },
+    "hariis fatin": {
+      "tokodede_translation": "diu wati",
+      "english_translation": "bath place"
+    },
+    "hariis": {
+      "tokodede_translation": "diu",
+      "english_translation": "bath/to shower"
+    },
+    "uluk": {
+      "tokodede_translation": "muno",
+      "english_translation": "before, first"
+    },
+    "kraik ": {
+      "tokodede_translation": "rua",
+      "english_translation": "below"
+    },
+    "boot": {
+      "tokodede_translation": "ha'e/poku",
+      "english_translation": "big"
+    },
+    "ro": {
+      "tokodede_translation": "pro",
+      "english_translation": "boat"
+    },
+    "livru": {
+      "tokodede_translation": "livru",
+      "english_translation": "book"
+    },
+    "lori/hodi": {
+      "tokodede_translation": "odi",
+      "english_translation": "bring"
+    },
+    "ai-farina": {
+      "tokodede_translation": "kai same ",
+      "english_translation": "cassava"
+    },
+    "kadeira": {
+      "tokodede_translation": "kadeira",
+      "english_translation": "chair"
+    },
+    "baratu": {
+      "tokodede_translation": "pida pida/tunugudu",
+      "english_translation": "cheap"
+    },
+    "kafe": {
+      "tokodede_translation": "kafe",
+      "english_translation": "coffee"
+    },
+    "mai han ona": {
+      "tokodede_translation": "mai ha’a laap ",
+      "english_translation": "come eat "
+    },
+    "karau": {
+      "tokodede_translation": "karbau",
+      "english_translation": "cow"
+    },
+    "pepinu ": {
+      "tokodede_translation": "kavo ",
+      "english_translation": "cucumber"
+    },
+    "loron": {
+      "tokodede_translation": "aer",
+      "english_translation": "day"
+    },
+    "rai loron": {
+      "tokodede_translation": "raeaer",
+      "english_translation": "daytime"
+    },
+    "fo'er ": {
+      "tokodede_translation": "gia",
+      "english_translation": "dirty"
+    },
+    "odamatan": {
+      "tokodede_translation": "damat",
+      "english_translation": "door"
+    },
+    "mehi": {
+      "tokodede_translation": "nevati",
+      "english_translation": "dream"
+    },
+    "tilun": {
+      "tokodede_translation": "tligi",
+      "english_translation": "ear"
+    },
+    "ualu": {
+      "tokodede_translation": "wowtelu",
+      "english_translation": "eight"
+    },
+    "ualunulu": {
+      "tokodede_translation": "sakuiwowtelu",
+      "english_translation": "eighty"
+    },
+    "sanulu resin ida": {
+      "tokodede_translation": "sagulu gresi iso",
+      "english_translation": "eleven"
+    },
+    "mamuk": {
+      "tokodede_translation": "ma’o",
+      "english_translation": "empty, vacant, blank unoccupied"
+    },
+    "loro-loron": {
+      "tokodede_translation": "ae-aer",
+      "english_translation": "everyday"
+    },
+    "matan": {
+      "tokodede_translation": "mat",
+      "english_translation": "eyes"
+    },
+    "lais, lalais": {
+      "tokodede_translation": "bebere’e/biu",
+      "english_translation": "fast, quickly"
+    },
+    "limanulu": {
+      "tokodede_translation": "sakuilim",
+      "english_translation": "fifty"
+    },
+    "tuku malu": {
+      "tokodede_translation": "tidi lor",
+      "english_translation": "fight"
+    },
+    "ikus": {
+      "tokodede_translation": "mori",
+      "english_translation": "final, end, youngest"
+    },
+    "remata": {
+      "tokodede_translation": "ma'o",
+      "english_translation": "finish"
+    },
+    "ikan ": {
+      "tokodede_translation": "ika ",
+      "english_translation": "fish"
+    },
+    "lima": {
+      "tokodede_translation": "lim",
+      "english_translation": "five"
+    },
+    "ai-funan": {
+      "tokodede_translation": "vetu/wetu",
+      "english_translation": "flower"
+    },
+    "ain": {
+      "tokodede_translation": "koe",
+      "english_translation": "foot, leg"
+    },
+    "garfu": {
+      "tokodede_translation": "garfu",
+      "english_translation": "fork"
+    },
+    "haatnulu": {
+      "tokodede_translation": "sakuipat",
+      "english_translation": "forty"
+    },
+    "haat": {
+      "tokodede_translation": "pat",
+      "english_translation": "four"
+    },
+    "dala haat": {
+      "tokodede_translation": "kupat",
+      "english_translation": "fourth"
+    },
+    "hosi, husi (fatin)": {
+      "tokodede_translation": "pio",
+      "english_translation": "from (place)"
+    },
+    "hosi, husi (pasadu)": {
+      "tokodede_translation": "pesa",
+      "english_translation": "from (time)"
+    },
+    "hosi ne'ebe?": {
+      "tokodede_translation": "pio mane?",
+      "english_translation": "from where?"
+    },
+    "futuru": {
+      "tokodede_translation": "aer-airu, aeraru",
+      "english_translation": "future"
+    },
+    "liis mutin": {
+      "tokodede_translation": "lasona buti, lisona buti",
+      "english_translation": "garlic"
+    },
+    "liis ": {
+      "tokodede_translation": "lasona,lisona",
+      "english_translation": "garlic/onion"
+    },
+    "laran-luak": {
+      "tokodede_translation": "mnamar",
+      "english_translation": "generous"
+    },
+    "moris": {
+      "tokodede_translation": "mori",
+      "english_translation": "give birth, birth, born"
+    },
+    "fo": {
+      "tokodede_translation": "nee/tolo",
+      "english_translation": "give, provide, deliver"
+    },
+    "kopu": {
+      "tokodede_translation": "kopu",
+      "english_translation": "glass"
+    },
+    "tun": {
+      "tokodede_translation": "duu",
+      "english_translation": "go down"
+    },
+    "di'ak ka lae?": {
+      "tokodede_translation": "bloi ka tai?",
+      "english_translation": "good or no?"
+    },
+    "lakeru": {
+      "tokodede_translation": "dudu",
+      "english_translation": "gourd"
+    },
+    "nia": {
+      "tokodede_translation": "U",
+      "english_translation": "he/she"
+    },
+    "ulun": {
+      "tokodede_translation": "dgana",
+      "english_translation": "head"
+    },
+    "uma": {
+      "tokodede_translation": "umo",
+      "english_translation": "house, home"
+    },
+    "atus": {
+      "tokodede_translation": "atus",
+      "english_translation": "hundred"
+    },
+    "hamlaha": {
+      "tokodede_translation": "salae",
+      "english_translation": "hungry"
+    },
+    "ha’u": {
+      "tokodede_translation": "A",
+      "english_translation": "I"
+    },
+    "ha’u ba eskola ona ": {
+      "tokodede_translation": "A la eskola se",
+      "english_translation": "I am going to school now"
+    },
+    "ha’u ba hariis fatin ": {
+      "tokodede_translation": "A la diu wati",
+      "english_translation": "I am going to the bathroom"
+    },
+    "ha’u hamrok": {
+      "tokodede_translation": "A bro",
+      "english_translation": "I am thirsty"
+    },
+    "ha'u han etu": {
+      "tokodede_translation": "A ha'a ha'a",
+      "english_translation": "I eat rice"
+    },
+    "laran": {
+      "tokodede_translation": "lara",
+      "english_translation": "inside"
+    },
+    "tudik": {
+      "tokodede_translation": "gnaeu",
+      "english_translation": "knife"
+    },
+    "rai": {
+      "tokodede_translation": "rae",
+      "english_translation": "land, earth"
+    },
+    "ai-tahan": {
+      "tokodede_translation": "kairua ",
+      "english_translation": "leaf"
+    },
+    "maubara iha ai-dila ": {
+      "tokodede_translation": "maubara dia dila",
+      "english_translation": "maubara has papaya"
+    },
+    "ai-moruk": {
+      "tokodede_translation": "kairua ",
+      "english_translation": "medicine"
+    },
+    "meudia": {
+      "tokodede_translation": "lelo-kalau",
+      "english_translation": "midday"
+    },
+    "susubeen": {
+      "tokodede_translation": "suse",
+      "english_translation": "milk"
+    },
+    "fulan": {
+      "tokodede_translation": "vula/wula",
+      "english_translation": "month; moon"
+    },
+    "dadeer": {
+      "tokodede_translation": "busó",
+      "english_translation": "morning"
+    },
+    "foho": {
+      "tokodede_translation": "vovolau",
+      "english_translation": "mountain"
+    },
+    "ibun": {
+      "tokodede_translation": "ibo",
+      "english_translation": "mouth"
+    },
+    "hau-nia naran": {
+      "tokodede_translation": "akau gala",
+      "english_translation": "my name is"
+    },
+    "naran": {
+      "tokodede_translation": "gala",
+      "english_translation": "name"
+    },
+    "kakorok": {
+      "tokodede_translation": "tegeu",
+      "english_translation": "neck"
+    },
+    "foun": {
+      "tokodede_translation": "weu/veu",
+      "english_translation": "new"
+    },
+    "tinan foun": {
+      "tokodede_translation": "to heú",
+      "english_translation": "new year"
+    },
+    "kalan": {
+      "tokodede_translation": "buta",
+      "english_translation": "night"
+    },
+    "sia": {
+      "tokodede_translation": "wowpat",
+      "english_translation": "nine"
+    },
+    "sianulu": {
+      "tokodede_translation": "sakuiwowpat",
+      "english_translation": "ninety"
+    },
+    "inus": {
+      "tokodede_translation": "ilu",
+      "english_translation": "nose"
+    },
+    "seidauk": {
+      "tokodede_translation": "weki/veki",
+      "english_translation": "not yet"
+    },
+    "agora": {
+      "tokodede_translation": "se",
+      "english_translation": "now"
+    },
+    "ona": {
+      "tokodede_translation": "se",
+      "english_translation": "now, already"
+    },
+    "bebeik": {
+      "tokodede_translation": "dapu",
+      "english_translation": "often"
+    },
+    "tinan boot": {
+      "tokodede_translation": "to ha’e",
+      "english_translation": "older"
+    },
+    "dala ida": {
+      "tokodede_translation": "kaso’e",
+      "english_translation": "once"
+    },
+    "dala ida tan": {
+      "tokodede_translation": "kaso'e pita",
+      "english_translation": "once again"
+    },
+    "ida": {
+      "tokodede_translation": "iso",
+      "english_translation": "one"
+    },
+    "loron ida": {
+      "tokodede_translation": "aer iso",
+      "english_translation": "one day"
+    },
+    "atus ida": {
+      "tokodede_translation": "atus iso",
+      "english_translation": "one hundred"
+    },
+    "rihun ida": {
+      "tokodede_translation": "ribu iso",
+      "english_translation": "one thousand"
+    },
+    "ai-dila": {
+      "tokodede_translation": "dila ",
+      "english_translation": "papaya"
+    },
+    "ema": {
+      "tokodede_translation": "atu",
+      "english_translation": "people, humans"
+    },
+    "ai-manas": {
+      "tokodede_translation": "kurus",
+      "english_translation": "pepper, chili"
+    },
+    "fahi ": {
+      "tokodede_translation": "wavi/vavi",
+      "english_translation": "pig"
+    },
+    "fatin": {
+      "tokodede_translation": "wati",
+      "english_translation": "place, address"
+    },
+    "bikan": {
+      "tokodede_translation": "knia",
+      "english_translation": "plate"
+    },
+    "sanan ": {
+      "tokodede_translation": "kura",
+      "english_translation": "pot, cauldron, cooking pot"
+    },
+    "dudu": {
+      "tokodede_translation": "dudu",
+      "english_translation": "push"
+    },
+    "tau": {
+      "tokodede_translation": "lui",
+      "english_translation": "put"
+    },
+    "simu": {
+      "tokodede_translation": "simu",
+      "english_translation": "receive, accept"
+    },
+    "mean": {
+      "tokodede_translation": "mio",
+      "english_translation": "red"
+    },
+    "liis mean, liis bombay": {
+      "tokodede_translation": "lasona mio, lisona mio",
+      "english_translation": "red onion"
+    },
+    "etu": {
+      "tokodede_translation": "ha'a",
+      "english_translation": "rice"
+    },
+    "mota": {
+      "tokodede_translation": "lua",
+      "english_translation": "river"
+    },
+    "halai": {
+      "tokodede_translation": "plai",
+      "english_translation": "run"
+    },
+    "eskola": {
+      "tokodede_translation": "eskola",
+      "english_translation": "school"
+    },
+    "tasi": {
+      "tokodede_translation": "tasi",
+      "english_translation": "sea, ocean"
+    },
+    "hitu": {
+      "tokodede_translation": "wowru",
+      "english_translation": "seven"
+    },
+    "hitunulu": {
+      "tokodede_translation": "sakuiwowru",
+      "english_translation": "seventy"
+    },
+    "neen": {
+      "tokodede_translation": "wowniso",
+      "english_translation": "six"
+    },
+    "neenulu": {
+      "tokodede_translation": "sakuiwowniso",
+      "english_translation": "sixty"
+    },
+    "ki'ik": {
+      "tokodede_translation": "bruma",
+      "english_translation": "small, little"
+    },
+    "kanuru": {
+      "tokodede_translation": "gunuru",
+      "english_translation": "spoon"
+    },
+    "hamriik": {
+      "tokodede_translation": "brii",
+      "english_translation": "stand up"
+    },
+    "karak-teen": {
+      "tokodede_translation": "digira ua",
+      "english_translation": "stingy"
+    },
+    "fatuk": {
+      "tokodede_translation": "watu/vatu",
+      "english_translation": "stone, rock"
+    },
+    "masin midar": {
+      "tokodede_translation": "sia meda ",
+      "english_translation": "sugar"
+    },
+    "bai loron": {
+      "tokodede_translation": "lelo ha’e",
+      "english_translation": "summer, dry season"
+    },
+    "loron (sun)": {
+      "tokodede_translation": "lelo",
+      "english_translation": "sun"
+    },
+    "domingu": {
+      "tokodede_translation": "dumingu",
+      "english_translation": "sunday"
+    },
+    "loron sa’e": {
+      "tokodede_translation": "lelo sa'e",
+      "english_translation": "sunrise, east"
+    },
+    "lokraik": {
+      "tokodede_translation": "raediri",
+      "english_translation": "sunset"
+    },
+    "loron tun": {
+      "tokodede_translation": "lelo duu/lelo sobu",
+      "english_translation": "sunset, west"
+    },
+    "nani": {
+      "tokodede_translation": "nagi",
+      "english_translation": "swim"
+    },
+    "mesa": {
+      "tokodede_translation": "meza",
+      "english_translation": "table"
+    },
+    "sukaer": {
+      "tokodede_translation": "kamale",
+      "english_translation": "tamarind"
+    },
+    "xa": {
+      "tokodede_translation": "xa",
+      "english_translation": "tea"
+    },
+    "nehan": {
+      "tokodede_translation": "nipa",
+      "english_translation": "teeth"
+    },
+    "sanulu": {
+      "tokodede_translation": "sagulu",
+      "english_translation": "ten"
+    },
+    "hamrook": {
+      "tokodede_translation": "bro",
+      "english_translation": "thirsty"
+    },
+    "sanulu resin tolu": {
+      "tokodede_translation": "sagulu gresi telu",
+      "english_translation": "thirteen"
+    },
+    "tolunulu": {
+      "tokodede_translation": "sakuitelu",
+      "english_translation": "thirty"
+    },
+    "tolu": {
+      "tokodede_translation": "telu",
+      "english_translation": "three"
+    },
+    "loron tolu": {
+      "tokodede_translation": "aer-telu",
+      "english_translation": "three days"
+    },
+    "horik baintolu": {
+      "tokodede_translation": "aitelun",
+      "english_translation": "three days ago"
+    },
+    "baintolu": {
+      "tokodede_translation": "aitelu",
+      "english_translation": "three days later"
+    },
+    "kolen": {
+      "tokodede_translation": "kole",
+      "english_translation": "tired"
+    },
+    "tanis": {
+      "tokodede_translation": "sio ",
+      "english_translation": "to cry"
+    },
+    "han": {
+      "tokodede_translation": "ha’a",
+      "english_translation": "to eat"
+    },
+    "sona": {
+      "tokodede_translation": "sega",
+      "english_translation": "to fry"
+    },
+    "ba": {
+      "tokodede_translation": "la",
+      "english_translation": "to go, go, goes"
+    },
+    "iha": {
+      "tokodede_translation": "dia",
+      "english_translation": "to have"
+    },
+    "haro'us": {
+      "tokodede_translation": "para’u",
+      "english_translation": "to rinse off"
+    },
+    "tuur": {
+      "tokodede_translation": "mderi",
+      "english_translation": "to sit"
+    },
+    "toba": {
+      "tokodede_translation": "ena",
+      "english_translation": "to sleep"
+    },
+    "hela, hein": {
+      "tokodede_translation": "peni",
+      "english_translation": "to stay, wait, stay"
+    },
+    "la’o": {
+      "tokodede_translation": "sole",
+      "english_translation": "to walk"
+    },
+    "ohin, agora (lp)": {
+      "tokodede_translation": "pna’i",
+      "english_translation": "today, now"
+    },
+    "aban": {
+      "tokodede_translation": "aer",
+      "english_translation": "tomorrow"
+    },
+    "nanal": {
+      "tokodede_translation": "lama",
+      "english_translation": "tongue"
+    },
+    "leten": {
+      "tokodede_translation": "tete ",
+      "english_translation": "top, up top, on top, above, over"
+    },
+    "ai-huun": {
+      "tokodede_translation": "kaipu",
+      "english_translation": "tree"
+    },
+    "sanulu resin rua": {
+      "tokodede_translation": "sagulu gresi ru",
+      "english_translation": "twelve"
+    },
+    "ruanulu": {
+      "tokodede_translation": "sakuiru",
+      "english_translation": "twenty"
+    },
+    "rua": {
+      "tokodede_translation": "rú",
+      "english_translation": "two"
+    },
+    "loron rua, bainrua": {
+      "tokodede_translation": "aer-ru",
+      "english_translation": "two days"
+    },
+    "horik bainrua": {
+      "tokodede_translation": "aer-rum",
+      "english_translation": "two days ago"
+    },
+    "atus rua": {
+      "tokodede_translation": "atus ru",
+      "english_translation": "two hundred"
+    },
+    "rihun rua atus tolu haatnulu resin lima": {
+      "tokodede_translation": "ribu ru atus telu sakuipat gresi lim",
+      "english_translation": "two thousand three hundred forty five"
+    },
+    "okos": {
+      "tokodede_translation": "ba",
+      "english_translation": "under, below"
+    },
+    "modo": {
+      "tokodede_translation": "uta",
+      "english_translation": "vegetables"
+    },
+    "fase": {
+      "tokodede_translation": "kawasa",
+      "english_translation": "wash"
+    },
+    "fase bikan ": {
+      "tokodede_translation": "kawasa knia ",
+      "english_translation": "wash dishes"
+    },
+    "bee": {
+      "tokodede_translation": "E",
+      "english_translation": "water"
+    },
+    "saida": {
+      "tokodede_translation": "seta",
+      "english_translation": "what"
+    },
+    "ita naran sa?": {
+      "tokodede_translation": "kiti gala seta?",
+      "english_translation": "what is your name?"
+    },
+    "horibainhira": {
+      "tokodede_translation": "pesamane",
+      "english_translation": "when"
+    },
+    "bainhira": {
+      "tokodede_translation": "aer-pil",
+      "english_translation": "when (how many days)"
+    },
+    "ne'ebe (labele haree deit)": {
+      "tokodede_translation": "vermane",
+      "english_translation": "where (bele haree)"
+    },
+    "ba ne’ebe?": {
+      "tokodede_translation": "la mane?",
+      "english_translation": "Where are you going?"
+    },
+    "mutin": {
+      "tokodede_translation": "buti",
+      "english_translation": "white"
+    },
+    "tomak": {
+      "tokodede_translation": "ketemo",
+      "english_translation": "whole"
+    },
+    "anin": {
+      "tokodede_translation": "gelu",
+      "english_translation": "wind"
+    },
+    "janela": {
+      "tokodede_translation": "janela",
+      "english_translation": "window"
+    },
+    "ai ": {
+      "tokodede_translation": "kai",
+      "english_translation": "wood, tree"
+    },
+    "tinan": {
+      "tokodede_translation": "to",
+      "english_translation": "year"
+    },
+    "o": {
+      "tokodede_translation": "ko",
+      "english_translation": "you"
+    },
+    "imi, sira": {
+      "tokodede_translation": "kimi/ro",
+      "english_translation": "you all, they"
+    },
+    "ita": {
+      "tokodede_translation": "kiti ",
+      "english_translation": "you, we, us"
+    },
+    "tinan ki’ik": {
+      "tokodede_translation": "to bruma",
+      "english_translation": "youngest"
+    },
+    "nol": {
+      "tokodede_translation": "ma'o moe",
+      "english_translation": "zero"
+    },
+    "hatais": {
+      "tokodede_translation": "vore (tm)",
+      "english_translation": "wear, put something on"
+    },
+    "hakerek": {
+      "tokodede_translation": "kero",
+      "english_translation": "write"
+    },
+    "rona": {
+      "tokodede_translation": "pli’i",
+      "english_translation": "listen"
+    },
+    "haksoit (ema)": {
+      "tokodede_translation": "divitur",
+      "english_translation": "jump, leap"
+    }
+  },
+  "english": {
+    "bad, unwell, broke (for things)": {
+      "tokodede_translation": "kla'o",
+      "tetun_translation": "aat (sasan)"
+    },
+    "bad, unwell, broke (for people)": {
+      "tokodede_translation": "soko",
+      "tetun_translation": "aat (ema)"
+    },
+    "half": {
+      "tokodede_translation": "seri",
+      "tetun_translation": "balun"
+    },
+    "good, right, fine": {
+      "tokodede_translation": "bloi",
+      "tetun_translation": "di'ak"
+    },
+    "chicken": {
+      "tokodede_translation": "manu",
+      "tetun_translation": "manu"
+    },
+    "horse": {
+      "tokodede_translation": "kuda",
+      "tetun_translation": "kuda"
+    },
+    "kitchen": {
+      "tokodede_translation": "dapur",
+      "tetun_translation": "dapur"
+    },
+    "beard": {
+      "tokodede_translation": "ibohulu",
+      "tetun_translation": "hasan rahun"
+    },
+    "bicep": {
+      "tokodede_translation": "limu kabu",
+      "tetun_translation": "liman-kabun"
+    },
+    "body (whole)": {
+      "tokodede_translation": "isi lolo",
+      "tetun_translation": "isin lolon"
+    },
+    "body hair": {
+      "tokodede_translation": "hulu",
+      "tetun_translation": "fulun"
+    },
+    "body, flesh": {
+      "tokodede_translation": "isi",
+      "tetun_translation": "isin"
+    },
+    "brain": {
+      "tokodede_translation": "gunutar",
+      "tetun_translation": "kakutak"
+    },
+    "chest, thorax, bosom": {
+      "tokodede_translation": "umat",
+      "tetun_translation": "hirus matan, peitu"
+    },
+    "eyebrow, eyelash": {
+      "tokodede_translation": "mat hulu",
+      "tetun_translation": "matan fulun"
+    },
+    "face": {
+      "tokodede_translation": "oe",
+      "tetun_translation": "oin"
+    },
+    "finger": {
+      "tokodede_translation": "limu'u",
+      "tetun_translation": "liman-fuan"
+    },
+    "heart": {
+      "tokodede_translation": "vu",
+      "tetun_translation": "fuan, (lp) kurasaun"
+    },
+    "toe": {
+      "tokodede_translation": "koe'u",
+      "tetun_translation": "ain fuan"
+    },
+    "hair": {
+      "tokodede_translation": "dgana ulu",
+      "tetun_translation": "fuuk"
+    },
+    "nail": {
+      "tokodede_translation": "kubu",
+      "tetun_translation": "kukun"
+    },
+    "green": {
+      "tokodede_translation": "mogorot",
+      "tetun_translation": "modok"
+    },
+    "yellow": {
+      "tokodede_translation": "megee",
+      "tetun_translation": "kinur"
+    },
+    "feel, feeling": {
+      "tokodede_translation": "pela, sente",
+      "tetun_translation": "sente"
+    },
+    "afraid, fear": {
+      "tokodede_translation": "mataku",
+      "tetun_translation": "ta'uk"
+    },
+    "alone": {
+      "tokodede_translation": "mde’es/mesa",
+      "tetun_translation": "mesak"
+    },
+    "anger, angry, fury": {
+      "tokodede_translation": "kusuba/kisit",
+      "tetun_translation": "hirus"
+    },
+    "crazy, insane": {
+      "tokodede_translation": "tekeru",
+      "tetun_translation": "bulak"
+    },
+    "happy": {
+      "tokodede_translation": "kontente",
+      "tetun_translation": "kontente"
+    },
+    "love": {
+      "tokodede_translation": "lara-m'nara",
+      "tetun_translation": "hadomi"
+    },
+    "sad": {
+      "tokodede_translation": "triste",
+      "tetun_translation": "triste"
+    },
+    "shy": {
+      "tokodede_translation": "makae",
+      "tetun_translation": "moe"
+    },
+    "sick, disease": {
+      "tokodede_translation": "gru’a",
+      "tetun_translation": "moras"
+    },
+    "startled, shocked": {
+      "tokodede_translation": "kakora",
+      "tetun_translation": "hakfodak"
+    },
+    "wrinkled, crinkled, crumpled": {
+      "tokodede_translation": "kulukut",
+      "tetun_translation": "namkurut"
+    },
+    "very shy": {
+      "tokodede_translation": "makae a’e",
+      "tetun_translation": "mo'e dor"
+    },
+    "coconut": {
+      "tokodede_translation": "noo",
+      "tetun_translation": "nuu"
+    },
+    "corn": {
+      "tokodede_translation": "sele",
+      "tetun_translation": "batar"
+    },
+    "drink": {
+      "tokodede_translation": "enu",
+      "tetun_translation": "hemu"
+    },
+    "egg": {
+      "tokodede_translation": "telo",
+      "tetun_translation": "tolun"
+    },
+    "egg (chicken)": {
+      "tokodede_translation": "mantelo",
+      "tetun_translation": "manu tolun"
+    },
+    "fruit": {
+      "tokodede_translation": "vú (tm)",
+      "tetun_translation": "fuan, ai-fuan"
+    },
+    "peanut": {
+      "tokodede_translation": "vurisí (tm)",
+      "tetun_translation": "forai"
+    },
+    "salt": {
+      "tokodede_translation": "sia",
+      "tetun_translation": "masin"
+    },
+    "vegetables": {
+      "tokodede_translation": "uta",
+      "tetun_translation": "modo"
+    },
+    "gecko": {
+      "tokodede_translation": "teke",
+      "tetun_translation": "toke"
+    },
+    "meat": {
+      "tokodede_translation": "sisi",
+      "tetun_translation": "na’an"
+    },
+    "potato": {
+      "tokodede_translation": "sevar",
+      "tetun_translation": "fehuk"
+    },
+    "sour, acid": {
+      "tokodede_translation": "tigisa",
+      "tetun_translation": "siin"
+    },
+    "cloud, cloudy": {
+      "tokodede_translation": "sabaité",
+      "tetun_translation": "abu-abu; kalohan"
+    },
+    "cold": {
+      "tokodede_translation": "tukudu",
+      "tetun_translation": "malirin"
+    },
+    "crescent moon": {
+      "tokodede_translation": "ula baiseri",
+      "tetun_translation": "fulan sorin"
+    },
+    "dark moon": {
+      "tokodede_translation": "ula muda",
+      "tetun_translation": "fulan nakukun"
+    },
+    "darkness": {
+      "tokodede_translation": "muda",
+      "tetun_translation": "nakukun"
+    },
+    "fire": {
+      "tokodede_translation": "api",
+      "tetun_translation": "ahi"
+    },
+    "flame": {
+      "tokodede_translation": "api-lio",
+      "tetun_translation": "ahi-lakan"
+    },
+    "full moon": {
+      "tokodede_translation": "ula ketemo",
+      "tetun_translation": "fulan tomak"
+    },
+    "star": {
+      "tokodede_translation": "vitu",
+      "tetun_translation": "fitun"
+    },
+    "moonlight": {
+      "tokodede_translation": "ula aer",
+      "tetun_translation": "fulan naroman"
+    },
+    "plant (activity)": {
+      "tokodede_translation": "tana",
+      "tetun_translation": "kuda"
+    },
+    "rain": {
+      "tokodede_translation": "ura",
+      "tetun_translation": "udan"
+    },
+    "warm, hot": {
+      "tokodede_translation": "baná",
+      "tetun_translation": "manas"
+    },
+    "give price": {
+      "tokodede_translation": "nee tunugu",
+      "tetun_translation": "fo folin"
+    },
+    "how, what": {
+      "tokodede_translation": "pelseta",
+      "tetun_translation": "nu'usá"
+    },
+    "let it be": {
+      "tokodede_translation": "leula",
+      "tetun_translation": "husik ba"
+    },
+    "so, that (focus marker)": {
+      "tokodede_translation": "ke",
+      "tetun_translation": "mak"
+    },
+    "bang, pop": {
+      "tokodede_translation": "dabait",
+      "tetun_translation": "tarutu"
+    },
+    "big price, expensive": {
+      "tokodede_translation": "tunugu ha’e",
+      "tetun_translation": "folin boot, folin karun"
+    },
+    "cut": {
+      "tokodede_translation": "ta",
+      "tetun_translation": "tesi"
+    },
+    "dead": {
+      "tokodede_translation": "mate",
+      "tetun_translation": "mate"
+    },
+    "each other": {
+      "tokodede_translation": "lor",
+      "tetun_translation": "malu"
+    },
+    "goods, products": {
+      "tokodede_translation": "lapar",
+      "tetun_translation": "sasan"
+    },
+    "here": {
+      "tokodede_translation": "verkede’e",
+      "tetun_translation": "iha ne’e"
+    },
+    "hide (thing)": {
+      "tokodede_translation": "sola",
+      "tetun_translation": "subar (buat)"
+    },
+    "jointly, as a group": {
+      "tokodede_translation": "ligu",
+      "tetun_translation": "lisuk"
+    },
+    "joke, jest, wisecrack": {
+      "tokodede_translation": "ba'a",
+      "tetun_translation": "halimar"
+    },
+    "not, no": {
+      "tokodede_translation": "te",
+      "tetun_translation": "la"
+    },
+    "price": {
+      "tokodede_translation": "tunugu",
+      "tetun_translation": "folin"
+    },
+    "pull": {
+      "tokodede_translation": "peri",
+      "tetun_translation": "dada"
+    },
+    "put in, insert, submit, deposit": {
+      "tokodede_translation": "pio/piotama",
+      "tetun_translation": "hatama"
+    },
+    "return": {
+      "tokodede_translation": "glelu",
+      "tetun_translation": "fila"
+    },
+    "slice": {
+      "tokodede_translation": "sapi",
+      "tetun_translation": "baluk"
+    },
+    "slow, slowly": {
+      "tokodede_translation": "vel-vele",
+      "tetun_translation": "neneik"
+    },
+    "smile": {
+      "tokodede_translation": "mali",
+      "tetun_translation": "hamnasa"
+    },
+    "smoke": {
+      "tokodede_translation": "kupu",
+      "tetun_translation": "suar"
+    },
+    "something": {
+      "tokodede_translation": "lapaiso",
+      "tetun_translation": "buat ida, buat ruma"
+    },
+    "sound, noise": {
+      "tokodede_translation": "bree",
+      "tetun_translation": "lian"
+    },
+    "there": {
+      "tokodede_translation": "kono’o",
+      "tetun_translation": "ne’eba"
+    },
+    "think, remember, miss": {
+      "tokodede_translation": "magani/nurat/olara",
+      "tetun_translation": "hanoin"
+    },
+    "this, that": {
+      "tokodede_translation": "kede’e",
+      "tetun_translation": "ne’e"
+    },
+    "tool, equipment, things": {
+      "tokodede_translation": "lapa",
+      "tetun_translation": "sasan, buat ruma, buat"
+    },
+    "traditional clothes for man and women": {
+      "tokodede_translation": "vore",
+      "tetun_translation": "tais"
+    },
+    "want": {
+      "tokodede_translation": "m'nara",
+      "tetun_translation": "hakarak"
+    },
+    "how often, how many times": {
+      "tokodede_translation": "kuipil",
+      "tetun_translation": "dala hira"
+    },
+    "how much, how many": {
+      "tokodede_translation": "pil",
+      "tetun_translation": "hira"
+    },
+    "invite, invitation": {
+      "tokodede_translation": "sebeta",
+      "tetun_translation": "konvida"
+    },
+    "liar": {
+      "tokodede_translation": "brobas kla’o",
+      "tetun_translation": "bosok ten"
+    },
+    "long": {
+      "tokodede_translation": "manaru",
+      "tetun_translation": "naruk"
+    },
+    "money, fund": {
+      "tokodede_translation": "osa",
+      "tetun_translation": "osan"
+    },
+    "more than": {
+      "tokodede_translation": "pesi",
+      "tetun_translation": "liu tan"
+    },
+    "much, many": {
+      "tokodede_translation": "nour",
+      "tetun_translation": "barak"
+    },
+    "open": {
+      "tokodede_translation": "lo’e",
+      "tetun_translation": "loke"
+    },
+    "right": {
+      "tokodede_translation": "loba",
+      "tetun_translation": "loos"
+    },
+    "with": {
+      "tokodede_translation": "lose",
+      "tetun_translation": "ho"
+    },
+    "equal; same": {
+      "tokodede_translation": "meges",
+      "tetun_translation": "hanesan"
+    },
+    "aunt": {
+      "tokodede_translation": "tia",
+      "tetun_translation": "tia"
+    },
+    "boy/man": {
+      "tokodede_translation": "mane",
+      "tetun_translation": "mane"
+    },
+    "child": {
+      "tokodede_translation": "ana",
+      "tetun_translation": "oan"
+    },
+    "daughter": {
+      "tokodede_translation": "ana vine",
+      "tetun_translation": "oan feto"
+    },
+    "older brother": {
+      "tokodede_translation": "kaka",
+      "tetun_translation": "maun"
+    },
+    "uncle": {
+      "tokodede_translation": "tiu",
+      "tetun_translation": "tiu"
+    },
+    "woman, women, lady": {
+      "tokodede_translation": "viné",
+      "tetun_translation": "feto"
+    },
+    "young": {
+      "tokodede_translation": "muguru",
+      "tetun_translation": "nurak"
+    },
+    "friend, mate": {
+      "tokodede_translation": "sao",
+      "tetun_translation": "belun, kolega"
+    },
+    "married": {
+      "tokodede_translation": "kaben",
+      "tetun_translation": "kaben"
+    },
+    "son": {
+      "tokodede_translation": "ana mane",
+      "tetun_translation": "oan mane"
+    },
+    "young brother, younger sister": {
+      "tokodede_translation": "ali",
+      "tetun_translation": "alin"
+    },
+    "please": {
+      "tokodede_translation": "favor",
+      "tetun_translation": "favor"
+    },
+    "side": {
+      "tokodede_translation": "bai",
+      "tetun_translation": "sorin"
+    },
+    "bedroom, bed": {
+      "tokodede_translation": "ena wati",
+      "tetun_translation": "toba fatin"
+    },
+    "inside": {
+      "tokodede_translation": "lara",
+      "tetun_translation": "laran"
+    },
+    "foreign": {
+      "tokodede_translation": "malae",
+      "tetun_translation": "malae"
+    },
+    "near, close to": {
+      "tokodede_translation": "gini",
+      "tetun_translation": "besik"
+    },
+    "outside": {
+      "tokodede_translation": "ver keva",
+      "tetun_translation": "iha liur"
+    },
+    "outside, external; outside surface": {
+      "tokodede_translation": "keva",
+      "tetun_translation": "liur"
+    },
+    "road, street": {
+      "tokodede_translation": "da",
+      "tetun_translation": "dalan"
+    },
+    "tall": {
+      "tokodede_translation": "kailau",
+      "tetun_translation": "aas"
+    },
+    "few, a little": {
+      "tokodede_translation": "seni’it",
+      "tetun_translation": "uitoan"
+    },
+    "my, mine": {
+      "tokodede_translation": "A ka’u",
+      "tetun_translation": "hau ni’an"
+    },
+    "our, ours": {
+      "tokodede_translation": "ka’mi",
+      "tetun_translation": "ami nian"
+    },
+    "their, theirs": {
+      "tokodede_translation": "ro;o si’i",
+      "tetun_translation": "sira nian"
+    },
+    "their, theirs, them": {
+      "tokodede_translation": "ro’o",
+      "tetun_translation": "sira"
+    },
+    "we, us": {
+      "tokodede_translation": "kami",
+      "tetun_translation": "ami"
+    },
+    "who, whom": {
+      "tokodede_translation": "seni",
+      "tetun_translation": "se"
+    },
+    "who’s that": {
+      "tokodede_translation": "seni ta’u",
+      "tetun_translation": "se mak ne’e"
+    },
+    "whose": {
+      "tokodede_translation": "sentani’i",
+      "tetun_translation": "se nian"
+    },
+    "your, yours": {
+      "tokodede_translation": "kimi",
+      "tetun_translation": "imi nian"
+    },
+    "bless, blessing": {
+      "tokodede_translation": "sudilimu",
+      "tetun_translation": "bensa"
+    },
+    "climb tree by hugging it": {
+      "tokodede_translation": "kadopa",
+      "tetun_translation": "kadopa"
+    },
+    "find, see": {
+      "tokodede_translation": "etó",
+      "tetun_translation": "hetan"
+    },
+    "meet": {
+      "tokodede_translation": "sudi",
+      "tetun_translation": "hasoru"
+    },
+    "buy": {
+      "tokodede_translation": "ala",
+      "tetun_translation": "sosa"
+    },
+    "buy something": {
+      "tokodede_translation": "ala lapar",
+      "tetun_translation": "hola sasan"
+    },
+    "call": {
+      "tokodede_translation": "via",
+      "tetun_translation": "bolu"
+    },
+    "can, could": {
+      "tokodede_translation": "lebo",
+      "tetun_translation": "bele"
+    },
+    "cannot": {
+      "tokodede_translation": "telebo",
+      "tetun_translation": "labele"
+    },
+    "climb": {
+      "tokodede_translation": "sa'e",
+      "tetun_translation": "sa'e"
+    },
+    "close": {
+      "tokodede_translation": "tapa",
+      "tetun_translation": "taka"
+    },
+    "don't want, wish not, want not": {
+      "tokodede_translation": "bra'i",
+      "tetun_translation": "lakohi"
+    },
+    "fall": {
+      "tokodede_translation": "doi",
+      "tetun_translation": "monu"
+    },
+    "fishing": {
+      "tokodede_translation": "na'il",
+      "tetun_translation": "hakail"
+    },
+    "fly (through the air)": {
+      "tokodede_translation": "tebe",
+      "tetun_translation": "semo"
+    },
+    "folklore": {
+      "tokodede_translation": "betu",
+      "tetun_translation": "tebe (okos)"
+    },
+    "kick": {
+      "tokodede_translation": "tei",
+      "tetun_translation": "tebe (leten)"
+    },
+    "look for": {
+      "tokodede_translation": "leti",
+      "tetun_translation": "buka"
+    },
+    "put on fire": {
+      "tokodede_translation": "dotu",
+      "tetun_translation": "tau leten ahi"
+    },
+    "quiet, silent, shut up": {
+      "tokodede_translation": "tenek-tenega",
+      "tetun_translation": "nonook"
+    },
+    "see, view": {
+      "tokodede_translation": "lise",
+      "tetun_translation": "haree"
+    },
+    "sell": {
+      "tokodede_translation": "fa'an",
+      "tetun_translation": "fa’an"
+    },
+    "sewing": {
+      "tokodede_translation": "sor",
+      "tetun_translation": "suku"
+    },
+    "show": {
+      "tokodede_translation": "matani",
+      "tetun_translation": "hatudu"
+    },
+    "strike, blow": {
+      "tokodede_translation": "tidi",
+      "tetun_translation": "tuku"
+    },
+    "strike, blow, hit": {
+      "tokodede_translation": "bonu",
+      "tetun_translation": "baku"
+    },
+    "talk, speak, converse": {
+      "tokodede_translation": "soru",
+      "tetun_translation": "ko'alia"
+    },
+    "throw, throw away": {
+      "tokodede_translation": "tia",
+      "tetun_translation": "tuda"
+    },
+    "divide, share": {
+      "tokodede_translation": "bati",
+      "tetun_translation": "fahe"
+    },
+    "follow": {
+      "tokodede_translation": "dara",
+      "tetun_translation": "tuir"
+    },
+    "forget": {
+      "tokodede_translation": "bligu",
+      "tetun_translation": "haluha"
+    },
+    "together, joint, gather together, united": {
+      "tokodede_translation": "putu",
+      "tetun_translation": "hamutuk"
+    },
+    "hide (person)": {
+      "tokodede_translation": "buni",
+      "tetun_translation": "subar (ema)"
+    },
+    "lie, falsehood": {
+      "tokodede_translation": "brobas",
+      "tetun_translation": "bosok"
+    },
+    "make": {
+      "tokodede_translation": "punu",
+      "tetun_translation": "halo"
+    },
+    "tell": {
+      "tokodede_translation": "dale",
+      "tetun_translation": "dehan"
+    },
+    "know, understand, aware of": {
+      "tokodede_translation": "pana’a",
+      "tetun_translation": "hatene"
+    },
+    "understand": {
+      "tokodede_translation": "pana’a dasa",
+      "tetun_translation": "komprende"
+    },
+    "wake up": {
+      "tokodede_translation": "blee",
+      "tetun_translation": "hadeer"
+    },
+    "all day": {
+      "tokodede_translation": "aer ketemo",
+      "tetun_translation": "loron tomak"
+    },
+    "anniversary": {
+      "tokodede_translation": "punu tó",
+      "tetun_translation": "halo tinan"
+    },
+    "answer": {
+      "tokodede_translation": "matar",
+      "tetun_translation": "hatan"
+    },
+    "arm, hand": {
+      "tokodede_translation": "limu",
+      "tetun_translation": "liman"
+    },
+    "ask, request": {
+      "tokodede_translation": "tugu",
+      "tetun_translation": "husu"
+    },
+    "banana": {
+      "tokodede_translation": "muku",
+      "tetun_translation": "hudi"
+    },
+    "bath place": {
+      "tokodede_translation": "diu wati",
+      "tetun_translation": "hariis fatin"
+    },
+    "bath/to shower": {
+      "tokodede_translation": "diu",
+      "tetun_translation": "hariis"
+    },
+    "before, first": {
+      "tokodede_translation": "muno",
+      "tetun_translation": "uluk"
+    },
+    "below": {
+      "tokodede_translation": "rua",
+      "tetun_translation": "kraik "
+    },
+    "big": {
+      "tokodede_translation": "ha'e/poku",
+      "tetun_translation": "boot"
+    },
+    "boat": {
+      "tokodede_translation": "pro",
+      "tetun_translation": "ro"
+    },
+    "book": {
+      "tokodede_translation": "livru",
+      "tetun_translation": "livru"
+    },
+    "bring": {
+      "tokodede_translation": "odi",
+      "tetun_translation": "lori/hodi"
+    },
+    "brother, older brother": {
+      "tokodede_translation": "ambou",
+      "tetun_translation": "maun"
+    },
+    "cassava": {
+      "tokodede_translation": "kai same ",
+      "tetun_translation": "ai-farina"
+    },
+    "chair": {
+      "tokodede_translation": "kadeira",
+      "tetun_translation": "kadeira"
+    },
+    "cheap": {
+      "tokodede_translation": "pida pida/tunugudu",
+      "tetun_translation": "baratu"
+    },
+    "coffee": {
+      "tokodede_translation": "kafe",
+      "tetun_translation": "kafe"
+    },
+    "come eat ": {
+      "tokodede_translation": "mai ha’a laap ",
+      "tetun_translation": "mai han ona"
+    },
+    "cow": {
+      "tokodede_translation": "karbau",
+      "tetun_translation": "karau"
+    },
+    "cucumber": {
+      "tokodede_translation": "kavo ",
+      "tetun_translation": "pepinu "
+    },
+    "day": {
+      "tokodede_translation": "aer",
+      "tetun_translation": "loron"
+    },
+    "daytime": {
+      "tokodede_translation": "raeaer",
+      "tetun_translation": "rai loron"
+    },
+    "dirty": {
+      "tokodede_translation": "gia",
+      "tetun_translation": "fo'er "
+    },
+    "door": {
+      "tokodede_translation": "damat",
+      "tetun_translation": "odamatan"
+    },
+    "dream": {
+      "tokodede_translation": "nevati",
+      "tetun_translation": "mehi"
+    },
+    "ear": {
+      "tokodede_translation": "tligi",
+      "tetun_translation": "tilun"
+    },
+    "eight": {
+      "tokodede_translation": "wowtelu",
+      "tetun_translation": "ualu"
+    },
+    "eighty": {
+      "tokodede_translation": "sakuiwowtelu",
+      "tetun_translation": "ualunulu"
+    },
+    "eleven": {
+      "tokodede_translation": "sagulu gresi iso",
+      "tetun_translation": "sanulu resin ida"
+    },
+    "empty, vacant, blank unoccupied": {
+      "tokodede_translation": "ma’o",
+      "tetun_translation": "mamuk"
+    },
+    "everyday": {
+      "tokodede_translation": "ae-aer",
+      "tetun_translation": "loro-loron"
+    },
+    "eyes": {
+      "tokodede_translation": "mat",
+      "tetun_translation": "matan"
+    },
+    "fast, quickly": {
+      "tokodede_translation": "bebere’e/biu",
+      "tetun_translation": "lais, lalais"
+    },
+    "fifty": {
+      "tokodede_translation": "sakuilim",
+      "tetun_translation": "limanulu"
+    },
+    "fight": {
+      "tokodede_translation": "tidi lor",
+      "tetun_translation": "tuku malu"
+    },
+    "final, end, youngest": {
+      "tokodede_translation": "mori",
+      "tetun_translation": "ikus"
+    },
+    "finish": {
+      "tokodede_translation": "ma'o",
+      "tetun_translation": "remata"
+    },
+    "fish": {
+      "tokodede_translation": "ika ",
+      "tetun_translation": "ikan "
+    },
+    "five": {
+      "tokodede_translation": "lim",
+      "tetun_translation": "lima"
+    },
+    "flower": {
+      "tokodede_translation": "vetu/wetu",
+      "tetun_translation": "ai-funan"
+    },
+    "foot, leg": {
+      "tokodede_translation": "koe",
+      "tetun_translation": "ain"
+    },
+    "fork": {
+      "tokodede_translation": "garfu",
+      "tetun_translation": "garfu"
+    },
+    "forty": {
+      "tokodede_translation": "sakuipat",
+      "tetun_translation": "haatnulu"
+    },
+    "four": {
+      "tokodede_translation": "pat",
+      "tetun_translation": "haat"
+    },
+    "fourth": {
+      "tokodede_translation": "kupat",
+      "tetun_translation": "dala haat"
+    },
+    "from (place)": {
+      "tokodede_translation": "pio",
+      "tetun_translation": "hosi, husi (fatin)"
+    },
+    "from (time)": {
+      "tokodede_translation": "pesa",
+      "tetun_translation": "hosi, husi (pasadu)"
+    },
+    "from where?": {
+      "tokodede_translation": "pio mane?",
+      "tetun_translation": "hosi ne'ebe?"
+    },
+    "future": {
+      "tokodede_translation": "aer-airu, aeraru",
+      "tetun_translation": "futuru"
+    },
+    "garlic": {
+      "tokodede_translation": "lasona buti, lisona buti",
+      "tetun_translation": "liis mutin"
+    },
+    "garlic/onion": {
+      "tokodede_translation": "lasona,lisona",
+      "tetun_translation": "liis "
+    },
+    "generous": {
+      "tokodede_translation": "mnamar",
+      "tetun_translation": "laran-luak"
+    },
+    "give birth, birth, born": {
+      "tokodede_translation": "mori",
+      "tetun_translation": "moris"
+    },
+    "give, provide, deliver": {
+      "tokodede_translation": "nee/tolo",
+      "tetun_translation": "fo"
+    },
+    "glass": {
+      "tokodede_translation": "kopu",
+      "tetun_translation": "kopu"
+    },
+    "go down": {
+      "tokodede_translation": "duu",
+      "tetun_translation": "tun"
+    },
+    "good or no?": {
+      "tokodede_translation": "bloi ka tai?",
+      "tetun_translation": "di'ak ka lae?"
+    },
+    "gourd": {
+      "tokodede_translation": "dudu",
+      "tetun_translation": "lakeru"
+    },
+    "he/she": {
+      "tokodede_translation": "U",
+      "tetun_translation": "nia"
+    },
+    "head": {
+      "tokodede_translation": "dgana",
+      "tetun_translation": "ulun"
+    },
+    "house, home": {
+      "tokodede_translation": "umo",
+      "tetun_translation": "uma"
+    },
+    "hundred": {
+      "tokodede_translation": "atus",
+      "tetun_translation": "atus"
+    },
+    "hungry": {
+      "tokodede_translation": "salae",
+      "tetun_translation": "hamlaha"
+    },
+    "I": {
+      "tokodede_translation": "A",
+      "tetun_translation": "ha’u"
+    },
+    "I am going to school now": {
+      "tokodede_translation": "A la eskola se",
+      "tetun_translation": "ha’u ba eskola ona "
+    },
+    "I am going to the bathroom": {
+      "tokodede_translation": "A la diu wati",
+      "tetun_translation": "ha’u ba hariis fatin "
+    },
+    "I am thirsty": {
+      "tokodede_translation": "A bro",
+      "tetun_translation": "ha’u hamrok"
+    },
+    "I eat rice": {
+      "tokodede_translation": "A ha'a ha'a",
+      "tetun_translation": "ha'u han etu"
+    },
+    "knife": {
+      "tokodede_translation": "gnaeu",
+      "tetun_translation": "tudik"
+    },
+    "land, earth": {
+      "tokodede_translation": "rae",
+      "tetun_translation": "rai"
+    },
+    "leaf": {
+      "tokodede_translation": "kairua ",
+      "tetun_translation": "ai-tahan"
+    },
+    "maubara has papaya": {
+      "tokodede_translation": "maubara dia dila",
+      "tetun_translation": "maubara iha ai-dila "
+    },
+    "medicine": {
+      "tokodede_translation": "kairua ",
+      "tetun_translation": "ai-moruk"
+    },
+    "midday": {
+      "tokodede_translation": "lelo-kalau",
+      "tetun_translation": "meudia"
+    },
+    "milk": {
+      "tokodede_translation": "suse",
+      "tetun_translation": "susubeen"
+    },
+    "month; moon": {
+      "tokodede_translation": "vula/wula",
+      "tetun_translation": "fulan"
+    },
+    "morning": {
+      "tokodede_translation": "busó",
+      "tetun_translation": "dadeer"
+    },
+    "mountain": {
+      "tokodede_translation": "vovolau",
+      "tetun_translation": "foho"
+    },
+    "mouth": {
+      "tokodede_translation": "ibo",
+      "tetun_translation": "ibun"
+    },
+    "my name is": {
+      "tokodede_translation": "akau gala",
+      "tetun_translation": "hau-nia naran"
+    },
+    "name": {
+      "tokodede_translation": "gala",
+      "tetun_translation": "naran"
+    },
+    "neck": {
+      "tokodede_translation": "tegeu",
+      "tetun_translation": "kakorok"
+    },
+    "new": {
+      "tokodede_translation": "weu/veu",
+      "tetun_translation": "foun"
+    },
+    "new year": {
+      "tokodede_translation": "to heú",
+      "tetun_translation": "tinan foun"
+    },
+    "night": {
+      "tokodede_translation": "buta",
+      "tetun_translation": "kalan"
+    },
+    "nine": {
+      "tokodede_translation": "wowpat",
+      "tetun_translation": "sia"
+    },
+    "ninety": {
+      "tokodede_translation": "sakuiwowpat",
+      "tetun_translation": "sianulu"
+    },
+    "nose": {
+      "tokodede_translation": "ilu",
+      "tetun_translation": "inus"
+    },
+    "not yet": {
+      "tokodede_translation": "weki/veki",
+      "tetun_translation": "seidauk"
+    },
+    "now": {
+      "tokodede_translation": "se",
+      "tetun_translation": "agora"
+    },
+    "now, already": {
+      "tokodede_translation": "se",
+      "tetun_translation": "ona"
+    },
+    "often": {
+      "tokodede_translation": "dapu",
+      "tetun_translation": "bebeik"
+    },
+    "older": {
+      "tokodede_translation": "to ha’e",
+      "tetun_translation": "tinan boot"
+    },
+    "once": {
+      "tokodede_translation": "kaso’e",
+      "tetun_translation": "dala ida"
+    },
+    "once again": {
+      "tokodede_translation": "kaso'e pita",
+      "tetun_translation": "dala ida tan"
+    },
+    "one": {
+      "tokodede_translation": "iso",
+      "tetun_translation": "ida"
+    },
+    "one day": {
+      "tokodede_translation": "aer iso",
+      "tetun_translation": "loron ida"
+    },
+    "one hundred": {
+      "tokodede_translation": "atus iso",
+      "tetun_translation": "atus ida"
+    },
+    "one thousand": {
+      "tokodede_translation": "ribu iso",
+      "tetun_translation": "rihun ida"
+    },
+    "papaya": {
+      "tokodede_translation": "dila ",
+      "tetun_translation": "ai-dila"
+    },
+    "people, humans": {
+      "tokodede_translation": "atu",
+      "tetun_translation": "ema"
+    },
+    "pepper, chili": {
+      "tokodede_translation": "kurus",
+      "tetun_translation": "ai-manas"
+    },
+    "pig": {
+      "tokodede_translation": "wavi/vavi",
+      "tetun_translation": "fahi "
+    },
+    "place, address": {
+      "tokodede_translation": "wati",
+      "tetun_translation": "fatin"
+    },
+    "plate": {
+      "tokodede_translation": "knia",
+      "tetun_translation": "bikan"
+    },
+    "pot, cauldron, cooking pot": {
+      "tokodede_translation": "kura",
+      "tetun_translation": "sanan "
+    },
+    "push": {
+      "tokodede_translation": "dudu",
+      "tetun_translation": "dudu"
+    },
+    "put": {
+      "tokodede_translation": "lui",
+      "tetun_translation": "tau"
+    },
+    "receive, accept": {
+      "tokodede_translation": "simu",
+      "tetun_translation": "simu"
+    },
+    "red": {
+      "tokodede_translation": "mio",
+      "tetun_translation": "mean"
+    },
+    "red onion": {
+      "tokodede_translation": "lasona mio, lisona mio",
+      "tetun_translation": "liis mean, liis bombay"
+    },
+    "rice": {
+      "tokodede_translation": "ha'a",
+      "tetun_translation": "etu"
+    },
+    "river": {
+      "tokodede_translation": "lua",
+      "tetun_translation": "mota"
+    },
+    "run": {
+      "tokodede_translation": "plai",
+      "tetun_translation": "halai"
+    },
+    "school": {
+      "tokodede_translation": "eskola",
+      "tetun_translation": "eskola"
+    },
+    "sea, ocean": {
+      "tokodede_translation": "tasi",
+      "tetun_translation": "tasi"
+    },
+    "seven": {
+      "tokodede_translation": "wowru",
+      "tetun_translation": "hitu"
+    },
+    "seventy": {
+      "tokodede_translation": "sakuiwowru",
+      "tetun_translation": "hitunulu"
+    },
+    "six": {
+      "tokodede_translation": "wowniso",
+      "tetun_translation": "neen"
+    },
+    "sixty": {
+      "tokodede_translation": "sakuiwowniso",
+      "tetun_translation": "neenulu"
+    },
+    "small, little": {
+      "tokodede_translation": "bruma",
+      "tetun_translation": "ki'ik"
+    },
+    "spoon": {
+      "tokodede_translation": "gunuru",
+      "tetun_translation": "kanuru"
+    },
+    "stand up": {
+      "tokodede_translation": "brii",
+      "tetun_translation": "hamriik"
+    },
+    "stingy": {
+      "tokodede_translation": "digira ua",
+      "tetun_translation": "karak-teen"
+    },
+    "stone, rock": {
+      "tokodede_translation": "watu/vatu",
+      "tetun_translation": "fatuk"
+    },
+    "sugar": {
+      "tokodede_translation": "sia meda ",
+      "tetun_translation": "masin midar"
+    },
+    "summer, dry season": {
+      "tokodede_translation": "lelo ha’e",
+      "tetun_translation": "bai loron"
+    },
+    "sun": {
+      "tokodede_translation": "lelo",
+      "tetun_translation": "loron (sun)"
+    },
+    "sunday": {
+      "tokodede_translation": "dumingu",
+      "tetun_translation": "domingu"
+    },
+    "sunrise, east": {
+      "tokodede_translation": "lelo sa'e",
+      "tetun_translation": "loron sa’e"
+    },
+    "sunset": {
+      "tokodede_translation": "raediri",
+      "tetun_translation": "lokraik"
+    },
+    "sunset, west": {
+      "tokodede_translation": "lelo duu/lelo sobu",
+      "tetun_translation": "loron tun"
+    },
+    "swim": {
+      "tokodede_translation": "nagi",
+      "tetun_translation": "nani"
+    },
+    "table": {
+      "tokodede_translation": "meza",
+      "tetun_translation": "mesa"
+    },
+    "tamarind": {
+      "tokodede_translation": "kamale",
+      "tetun_translation": "sukaer"
+    },
+    "tea": {
+      "tokodede_translation": "xa",
+      "tetun_translation": "xa"
+    },
+    "teeth": {
+      "tokodede_translation": "nipa",
+      "tetun_translation": "nehan"
+    },
+    "ten": {
+      "tokodede_translation": "sagulu",
+      "tetun_translation": "sanulu"
+    },
+    "thirsty": {
+      "tokodede_translation": "bro",
+      "tetun_translation": "hamrook"
+    },
+    "thirteen": {
+      "tokodede_translation": "sagulu gresi telu",
+      "tetun_translation": "sanulu resin tolu"
+    },
+    "thirty": {
+      "tokodede_translation": "sakuitelu",
+      "tetun_translation": "tolunulu"
+    },
+    "three": {
+      "tokodede_translation": "telu",
+      "tetun_translation": "tolu"
+    },
+    "three days": {
+      "tokodede_translation": "aer-telu",
+      "tetun_translation": "loron tolu"
+    },
+    "three days ago": {
+      "tokodede_translation": "aitelun",
+      "tetun_translation": "horik baintolu"
+    },
+    "three days later": {
+      "tokodede_translation": "aitelu",
+      "tetun_translation": "baintolu"
+    },
+    "tired": {
+      "tokodede_translation": "kole",
+      "tetun_translation": "kolen"
+    },
+    "to cry": {
+      "tokodede_translation": "sio ",
+      "tetun_translation": "tanis"
+    },
+    "to eat": {
+      "tokodede_translation": "ha’a",
+      "tetun_translation": "han"
+    },
+    "to fry": {
+      "tokodede_translation": "sega",
+      "tetun_translation": "sona"
+    },
+    "to go, go, goes": {
+      "tokodede_translation": "la",
+      "tetun_translation": "ba"
+    },
+    "to have": {
+      "tokodede_translation": "dia",
+      "tetun_translation": "iha"
+    },
+    "to rinse off": {
+      "tokodede_translation": "para’u",
+      "tetun_translation": "haro'us"
+    },
+    "to sit": {
+      "tokodede_translation": "mderi",
+      "tetun_translation": "tuur"
+    },
+    "to sleep": {
+      "tokodede_translation": "ena",
+      "tetun_translation": "toba"
+    },
+    "to stay, wait, stay": {
+      "tokodede_translation": "peni",
+      "tetun_translation": "hela, hein"
+    },
+    "to walk": {
+      "tokodede_translation": "sole",
+      "tetun_translation": "la’o"
+    },
+    "today, now": {
+      "tokodede_translation": "pna’i",
+      "tetun_translation": "ohin, agora (lp)"
+    },
+    "tomorrow": {
+      "tokodede_translation": "aer",
+      "tetun_translation": "aban"
+    },
+    "tongue": {
+      "tokodede_translation": "lama",
+      "tetun_translation": "nanal"
+    },
+    "top, up top, on top, above, over": {
+      "tokodede_translation": "tete ",
+      "tetun_translation": "leten"
+    },
+    "tree": {
+      "tokodede_translation": "kaipu",
+      "tetun_translation": "ai-huun"
+    },
+    "twelve": {
+      "tokodede_translation": "sagulu gresi ru",
+      "tetun_translation": "sanulu resin rua"
+    },
+    "twenty": {
+      "tokodede_translation": "sakuiru",
+      "tetun_translation": "ruanulu"
+    },
+    "two": {
+      "tokodede_translation": "rú",
+      "tetun_translation": "rua"
+    },
+    "two days": {
+      "tokodede_translation": "aer-ru",
+      "tetun_translation": "loron rua, bainrua"
+    },
+    "two days ago": {
+      "tokodede_translation": "aer-rum",
+      "tetun_translation": "horik bainrua"
+    },
+    "two hundred": {
+      "tokodede_translation": "atus ru",
+      "tetun_translation": "atus rua"
+    },
+    "two thousand three hundred forty five": {
+      "tokodede_translation": "ribu ru atus telu sakuipat gresi lim",
+      "tetun_translation": "rihun rua atus tolu haatnulu resin lima"
+    },
+    "under, below": {
+      "tokodede_translation": "ba",
+      "tetun_translation": "okos"
+    },
+    "wash": {
+      "tokodede_translation": "kawasa",
+      "tetun_translation": "fase"
+    },
+    "wash dishes": {
+      "tokodede_translation": "kawasa knia ",
+      "tetun_translation": "fase bikan "
+    },
+    "water": {
+      "tokodede_translation": "E",
+      "tetun_translation": "bee"
+    },
+    "what": {
+      "tokodede_translation": "seta",
+      "tetun_translation": "saida"
+    },
+    "what is your name?": {
+      "tokodede_translation": "kiti gala seta?",
+      "tetun_translation": "ita naran sa?"
+    },
+    "when": {
+      "tokodede_translation": "pesamane",
+      "tetun_translation": "horibainhira"
+    },
+    "when (how many days)": {
+      "tokodede_translation": "aer-pil",
+      "tetun_translation": "bainhira"
+    },
+    "where (bele haree)": {
+      "tokodede_translation": "vermane",
+      "tetun_translation": "ne'ebe (labele haree deit)"
+    },
+    "Where are you going?": {
+      "tokodede_translation": "la mane?",
+      "tetun_translation": "ba ne’ebe?"
+    },
+    "white": {
+      "tokodede_translation": "buti",
+      "tetun_translation": "mutin"
+    },
+    "whole": {
+      "tokodede_translation": "ketemo",
+      "tetun_translation": "tomak"
+    },
+    "wind": {
+      "tokodede_translation": "gelu",
+      "tetun_translation": "anin"
+    },
+    "window": {
+      "tokodede_translation": "janela",
+      "tetun_translation": "janela"
+    },
+    "wood, tree": {
+      "tokodede_translation": "kai",
+      "tetun_translation": "ai "
+    },
+    "year": {
+      "tokodede_translation": "to",
+      "tetun_translation": "tinan"
+    },
+    "you": {
+      "tokodede_translation": "ko",
+      "tetun_translation": "o"
+    },
+    "you all, they": {
+      "tokodede_translation": "kimi/ro",
+      "tetun_translation": "imi, sira"
+    },
+    "you, we, us": {
+      "tokodede_translation": "kiti ",
+      "tetun_translation": "ita"
+    },
+    "youngest": {
+      "tokodede_translation": "to bruma",
+      "tetun_translation": "tinan ki’ik"
+    },
+    "zero": {
+      "tokodede_translation": "ma'o moe",
+      "tetun_translation": "nol"
+    },
+    "wear, put something on": {
+      "tokodede_translation": "vore (tm)",
+      "tetun_translation": "hatais"
+    },
+    "write": {
+      "tokodede_translation": "kero",
+      "tetun_translation": "hakerek"
+    },
+    "listen": {
+      "tokodede_translation": "pli’i",
+      "tetun_translation": "rona"
+    },
+    "jump, leap": {
+      "tokodede_translation": "divitur",
+      "tetun_translation": "haksoit (ema)"
+    }
+  }
+}

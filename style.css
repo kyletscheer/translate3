@@ -1,0 +1,82 @@
+/* Adjust font sizes and weights */
+header {
+display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+label {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+input[type="text"] {
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+#spellcheckSuggestions {
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+
+#translationOne,
+#translationTwo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.link  {
+	color: white;
+	text-decoration: none;
+}
+/* Adjust button styling */
+button {
+  background-color: #333;
+  color: #FFF;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 10px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* Adjust layout */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#translate_buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+#userInput {
+  margin: 20px auto;
+  display: block;
+}
+
+#spellcheckSuggestions {
+  margin: 10px auto;
+  display: block;
+}
+
+#translationOne,
+#translationTwo {
+  margin: 20px auto;
+  display: block;
+}
